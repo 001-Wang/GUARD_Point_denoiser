@@ -1,0 +1,222 @@
+2025-10-02 20:49:45,579 - INFO - The number of test data is: 2874
+2025-10-02 21:06:41,999 - Model - INFO - PARAMETER ...
+2025-10-02 21:06:41,999 - Model - INFO - Namespace(batch_size=24, gpu='0', num_point=2500, log_dir='without_normal', normal=False, num_votes=3, root='data/shapenet_c_add/add_global_s1')
+2025-10-02 21:06:42,019 - Model - INFO - The number of test data is: 2874
+2025-10-02 21:08:17,918 - Model - INFO - Overall Acc (aligned):     0.8546
+2025-10-02 21:08:17,918 - Model - INFO - Instance mIoU (aligned):   0.6557
+2025-10-02 21:08:17,918 - Model - INFO - Class mIoU (avg, aligned): 0.6629
+2025-10-02 21:08:17,918 - Model - INFO - ---------- mIoU of each class ----------
+2025-10-02 21:08:17,918 - Model - INFO - Airplane      : 0.6525
+2025-10-02 21:08:17,918 - Model - INFO - Bag           : 0.7408
+2025-10-02 21:08:17,918 - Model - INFO - Cap           : 0.6491
+2025-10-02 21:08:17,918 - Model - INFO - Car           : 0.6144
+2025-10-02 21:08:17,918 - Model - INFO - Chair         : 0.6517
+2025-10-02 21:08:17,918 - Model - INFO - Earphone      : 0.5299
+2025-10-02 21:08:17,918 - Model - INFO - Guitar        : 0.8209
+2025-10-02 21:08:17,918 - Model - INFO - Knife         : 0.8067
+2025-10-02 21:08:17,918 - Model - INFO - Lamp          : 0.6196
+2025-10-02 21:08:17,918 - Model - INFO - Laptop        : 0.9053
+2025-10-02 21:08:17,918 - Model - INFO - Motorbike     : 0.5185
+2025-10-02 21:08:17,918 - Model - INFO - Mug           : 0.8560
+2025-10-02 21:08:17,918 - Model - INFO - Pistol        : 0.6618
+2025-10-02 21:08:17,918 - Model - INFO - Rocket        : 0.3781
+2025-10-02 21:08:17,918 - Model - INFO - Skateboard    : 0.5851
+2025-10-02 21:08:17,918 - Model - INFO - Table         : 0.6167
+2025-10-02 21:10:50,327 - Model - INFO - PARAMETER ...
+2025-10-02 21:10:50,327 - Model - INFO - Namespace(batch_size=24, gpu='0', num_point=2500, log_dir='without_normal', normal=False, num_votes=3, root='data/shapenet_c_add/add_global_s5')
+2025-10-02 21:10:50,347 - Model - INFO - The number of test data is: 2874
+2025-10-02 21:12:22,330 - Model - INFO - Overall Acc (aligned):     0.5009
+2025-10-02 21:12:22,330 - Model - INFO - Instance mIoU (aligned):   0.3307
+2025-10-02 21:12:22,330 - Model - INFO - Class mIoU (avg, aligned): 0.3333
+2025-10-02 21:12:22,330 - Model - INFO - ---------- mIoU of each class ----------
+2025-10-02 21:12:22,330 - Model - INFO - Airplane      : 0.3267
+2025-10-02 21:12:22,330 - Model - INFO - Bag           : 0.3801
+2025-10-02 21:12:22,330 - Model - INFO - Cap           : 0.2629
+2025-10-02 21:12:22,330 - Model - INFO - Car           : 0.1667
+2025-10-02 21:12:22,330 - Model - INFO - Chair         : 0.4051
+2025-10-02 21:12:22,330 - Model - INFO - Earphone      : 0.2678
+2025-10-02 21:12:22,330 - Model - INFO - Guitar        : 0.3407
+2025-10-02 21:12:22,330 - Model - INFO - Knife         : 0.5256
+2025-10-02 21:12:22,330 - Model - INFO - Lamp          : 0.3192
+2025-10-02 21:12:22,330 - Model - INFO - Laptop        : 0.6715
+2025-10-02 21:12:22,330 - Model - INFO - Motorbike     : 0.1851
+2025-10-02 21:12:22,330 - Model - INFO - Mug           : 0.3586
+2025-10-02 21:12:22,330 - Model - INFO - Pistol        : 0.3650
+2025-10-02 21:12:22,330 - Model - INFO - Rocket        : 0.2078
+2025-10-02 21:12:22,330 - Model - INFO - Skateboard    : 0.2880
+2025-10-02 21:12:22,330 - Model - INFO - Table         : 0.2615
+2025-10-02 21:12:57,103 - Model - INFO - PARAMETER ...
+2025-10-02 21:12:57,103 - Model - INFO - Namespace(batch_size=24, gpu='0', num_point=2500, log_dir='without_normal', normal=False, num_votes=3, root='data/shapenet_c_add/add_local_s1')
+2025-10-02 21:12:57,125 - Model - INFO - The number of test data is: 2874
+2025-10-02 21:14:28,566 - Model - INFO - Overall Acc (aligned):     0.8965
+2025-10-02 21:14:28,566 - Model - INFO - Instance mIoU (aligned):   0.8161
+2025-10-02 21:14:28,566 - Model - INFO - Class mIoU (avg, aligned): 0.7784
+2025-10-02 21:14:28,566 - Model - INFO - ---------- mIoU of each class ----------
+2025-10-02 21:14:28,566 - Model - INFO - Airplane      : 0.7866
+2025-10-02 21:14:28,566 - Model - INFO - Bag           : 0.7711
+2025-10-02 21:14:28,566 - Model - INFO - Cap           : 0.8128
+2025-10-02 21:14:28,566 - Model - INFO - Car           : 0.7541
+2025-10-02 21:14:28,566 - Model - INFO - Chair         : 0.8668
+2025-10-02 21:14:28,566 - Model - INFO - Earphone      : 0.6170
+2025-10-02 21:14:28,566 - Model - INFO - Guitar        : 0.8688
+2025-10-02 21:14:28,566 - Model - INFO - Knife         : 0.8239
+2025-10-02 21:14:28,566 - Model - INFO - Lamp          : 0.8144
+2025-10-02 21:14:28,566 - Model - INFO - Laptop        : 0.9091
+2025-10-02 21:14:28,566 - Model - INFO - Motorbike     : 0.6801
+2025-10-02 21:14:28,566 - Model - INFO - Mug           : 0.9059
+2025-10-02 21:14:28,566 - Model - INFO - Pistol        : 0.7808
+2025-10-02 21:14:28,566 - Model - INFO - Rocket        : 0.5712
+2025-10-02 21:14:28,566 - Model - INFO - Skateboard    : 0.6948
+2025-10-02 21:14:28,566 - Model - INFO - Table         : 0.7963
+2025-10-02 21:16:47,133 - Model - INFO - PARAMETER ...
+2025-10-02 21:16:47,133 - Model - INFO - Namespace(batch_size=24, gpu='0', num_point=2500, log_dir='without_normal', normal=False, num_votes=3, root='data/shapenet_c_add/add_local_s5')
+2025-10-02 21:16:47,164 - Model - INFO - The number of test data is: 2874
+2025-10-02 21:18:24,441 - Model - INFO - Overall Acc (aligned):     0.6342
+2025-10-02 21:18:24,441 - Model - INFO - Instance mIoU (aligned):   0.5113
+2025-10-02 21:18:24,441 - Model - INFO - Class mIoU (avg, aligned): 0.5003
+2025-10-02 21:18:24,441 - Model - INFO - ---------- mIoU of each class ----------
+2025-10-02 21:18:24,441 - Model - INFO - Airplane      : 0.4799
+2025-10-02 21:18:24,441 - Model - INFO - Bag           : 0.5394
+2025-10-02 21:18:24,441 - Model - INFO - Cap           : 0.4698
+2025-10-02 21:18:24,441 - Model - INFO - Car           : 0.4126
+2025-10-02 21:18:24,441 - Model - INFO - Chair         : 0.4939
+2025-10-02 21:18:24,441 - Model - INFO - Earphone      : 0.4417
+2025-10-02 21:18:24,441 - Model - INFO - Guitar        : 0.5975
+2025-10-02 21:18:24,441 - Model - INFO - Knife         : 0.5724
+2025-10-02 21:18:24,441 - Model - INFO - Lamp          : 0.5356
+2025-10-02 21:18:24,441 - Model - INFO - Laptop        : 0.6799
+2025-10-02 21:18:24,441 - Model - INFO - Motorbike     : 0.4031
+2025-10-02 21:18:24,441 - Model - INFO - Mug           : 0.6712
+2025-10-02 21:18:24,441 - Model - INFO - Pistol        : 0.5313
+2025-10-02 21:18:24,441 - Model - INFO - Rocket        : 0.2837
+2025-10-02 21:18:24,441 - Model - INFO - Skateboard    : 0.3753
+2025-10-02 21:18:24,441 - Model - INFO - Table         : 0.5180
+2025-10-06 23:00:58,979 - Model - INFO - PARAMETER ...
+2025-10-06 23:00:58,979 - Model - INFO - Namespace(batch_size=24, gpu='0', num_point=2048, log_dir='without_normal', normal=False, num_votes=3)
+2025-10-06 23:00:59,002 - Model - INFO - The number of test data is: 2874
+2025-10-06 23:12:28,363 - Model - INFO - PARAMETER ...
+2025-10-06 23:12:28,363 - Model - INFO - Namespace(batch_size=24, gpu='0', num_point=2048, log_dir='without_normal', normal=False, num_votes=3)
+2025-10-06 23:12:28,388 - Model - INFO - The number of test data is: 2874
+2025-10-06 23:20:19,490 - Model - INFO - PARAMETER ...
+2025-10-06 23:20:19,490 - Model - INFO - Namespace(batch_size=24, gpu='0', num_point=2048, log_dir='without_normal', normal=False, num_votes=3)
+2025-10-06 23:20:19,536 - Model - INFO - The number of test data is: 2874
+2025-10-06 23:27:34,030 - Model - INFO - PARAMETER ...
+2025-10-06 23:27:34,030 - Model - INFO - Namespace(batch_size=24, gpu='0', num_point=2048, log_dir='without_normal', normal=False, num_votes=3, root='data/shapenet_c_noisy/add_local_s1')
+2025-10-06 23:27:34,060 - Model - INFO - The number of test data is: 2874
+2025-10-06 23:28:08,890 - Model - INFO - ========================================
+2025-10-06 23:28:08,890 - Model - INFO - Overall Acc (penalize -1): 0.8920
+2025-10-06 23:28:08,890 - Model - INFO - Instance mIoU (penalize):  0.8090
+2025-10-06 23:28:08,890 - Model - INFO - Class mIoU (dataset avg):  0.7722
+2025-10-06 23:29:45,105 - Model - INFO - PARAMETER ...
+2025-10-06 23:29:45,105 - Model - INFO - Namespace(batch_size=24, gpu='0', num_point=2048, log_dir='without_normal', normal=False, num_votes=3, root='data/shapenet_c_noisy/add_local_s2')
+2025-10-06 23:30:07,343 - Model - INFO - PARAMETER ...
+2025-10-06 23:30:07,343 - Model - INFO - Namespace(batch_size=24, gpu='0', num_point=2048, log_dir='without_normal', normal=False, num_votes=3, root='data/shapenet_c_add/add_local_s2')
+2025-10-06 23:30:07,367 - Model - INFO - The number of test data is: 2874
+2025-10-06 23:30:41,674 - Model - INFO - ========================================
+2025-10-06 23:30:41,674 - Model - INFO - Overall Acc (penalize -1): 0.8518
+2025-10-06 23:30:41,674 - Model - INFO - Instance mIoU (penalize):  0.7715
+2025-10-06 23:30:41,674 - Model - INFO - Class mIoU (dataset avg):  0.7307
+2025-10-06 23:31:10,814 - Model - INFO - PARAMETER ...
+2025-10-06 23:31:10,814 - Model - INFO - Namespace(batch_size=24, gpu='0', num_point=2048, log_dir='without_normal', normal=False, num_votes=3, root='data/shapenet_c_add/add_local_s1')
+2025-10-06 23:31:10,821 - Model - INFO - The number of test data is: 2874
+2025-10-06 23:31:46,161 - Model - INFO - ========================================
+2025-10-06 23:31:46,161 - Model - INFO - Overall Acc (penalize -1): 0.8953
+2025-10-06 23:31:46,161 - Model - INFO - Instance mIoU (penalize):  0.8108
+2025-10-06 23:31:46,161 - Model - INFO - Class mIoU (dataset avg):  0.7753
+2025-10-06 23:32:01,567 - Model - INFO - PARAMETER ...
+2025-10-06 23:32:01,567 - Model - INFO - Namespace(batch_size=24, gpu='0', num_point=2048, log_dir='without_normal', normal=False, num_votes=3, root='data/shapenet_c_add/add_local_s3')
+2025-10-06 23:32:01,587 - Model - INFO - The number of test data is: 2874
+2025-10-06 23:32:36,525 - Model - INFO - ========================================
+2025-10-06 23:32:36,525 - Model - INFO - Overall Acc (penalize -1): 0.7770
+2025-10-06 23:32:36,525 - Model - INFO - Instance mIoU (penalize):  0.6952
+2025-10-06 23:32:36,525 - Model - INFO - Class mIoU (dataset avg):  0.6508
+2025-10-06 23:34:10,549 - Model - INFO - PARAMETER ...
+2025-10-06 23:34:10,549 - Model - INFO - Namespace(batch_size=24, gpu='0', num_point=2048, log_dir='without_normal', normal=False, num_votes=3, root='data/shapenet_c_add/add_local_s4')
+2025-10-06 23:34:10,572 - Model - INFO - The number of test data is: 2874
+2025-10-06 23:34:46,112 - Model - INFO - ========================================
+2025-10-06 23:34:46,112 - Model - INFO - Overall Acc (penalize -1): 0.7036
+2025-10-06 23:34:46,112 - Model - INFO - Instance mIoU (penalize):  0.5939
+2025-10-06 23:34:46,112 - Model - INFO - Class mIoU (dataset avg):  0.5683
+2025-10-06 23:37:04,976 - Model - INFO - PARAMETER ...
+2025-10-06 23:37:04,976 - Model - INFO - Namespace(batch_size=24, gpu='0', num_point=2048, log_dir='without_normal', normal=False, num_votes=3, root='data/shapenet_c_add/add_local_s5')
+2025-10-06 23:37:04,995 - Model - INFO - The number of test data is: 2874
+2025-10-06 23:37:40,720 - Model - INFO - ========================================
+2025-10-06 23:37:40,720 - Model - INFO - Overall Acc (penalize -1): 0.6313
+2025-10-06 23:37:40,720 - Model - INFO - Instance mIoU (penalize):  0.5073
+2025-10-06 23:37:40,720 - Model - INFO - Class mIoU (dataset avg):  0.4991
+2025-10-06 23:38:34,326 - Model - INFO - PARAMETER ...
+2025-10-06 23:38:34,326 - Model - INFO - Namespace(batch_size=24, gpu='0', num_point=2048, log_dir='without_normal', normal=False, num_votes=3, root='data/shapenet_c_add/add_global_s1')
+2025-10-06 23:38:34,347 - Model - INFO - The number of test data is: 2874
+2025-10-06 23:39:11,369 - Model - INFO - ========================================
+2025-10-06 23:39:11,369 - Model - INFO - Overall Acc (penalize -1): 0.8523
+2025-10-06 23:39:11,369 - Model - INFO - Instance mIoU (penalize):  0.6544
+2025-10-06 23:39:11,369 - Model - INFO - Class mIoU (dataset avg):  0.6591
+2025-10-06 23:40:55,734 - Model - INFO - PARAMETER ...
+2025-10-06 23:40:55,734 - Model - INFO - Namespace(batch_size=24, gpu='0', num_point=2048, log_dir='without_normal', normal=False, num_votes=3, root='data/shapenet_c_add/add_global_s2')
+2025-10-06 23:40:55,757 - Model - INFO - The number of test data is: 2874
+2025-10-06 23:41:31,902 - Model - INFO - ========================================
+2025-10-06 23:41:31,902 - Model - INFO - Overall Acc (penalize -1): 0.7807
+2025-10-06 23:41:31,902 - Model - INFO - Instance mIoU (penalize):  0.5641
+2025-10-06 23:41:31,902 - Model - INFO - Class mIoU (dataset avg):  0.5759
+2025-10-06 23:41:45,482 - Model - INFO - PARAMETER ...
+2025-10-06 23:41:45,482 - Model - INFO - Namespace(batch_size=24, gpu='0', num_point=2048, log_dir='without_normal', normal=False, num_votes=3, root='data/shapenet_c_add/add_global_s3')
+2025-10-06 23:41:45,501 - Model - INFO - The number of test data is: 2874
+2025-10-06 23:42:20,658 - Model - INFO - ========================================
+2025-10-06 23:42:20,659 - Model - INFO - Overall Acc (penalize -1): 0.6589
+2025-10-06 23:42:20,659 - Model - INFO - Instance mIoU (penalize):  0.4483
+2025-10-06 23:42:20,659 - Model - INFO - Class mIoU (dataset avg):  0.4547
+2025-10-06 23:44:10,884 - Model - INFO - PARAMETER ...
+2025-10-06 23:44:10,884 - Model - INFO - Namespace(batch_size=24, gpu='0', num_point=2048, log_dir='without_normal', normal=False, num_votes=3, root='data/shapenet_c_add/add_global_s4')
+2025-10-06 23:44:10,904 - Model - INFO - The number of test data is: 2874
+2025-10-06 23:44:46,185 - Model - INFO - ========================================
+2025-10-06 23:44:46,185 - Model - INFO - Overall Acc (penalize -1): 0.5686
+2025-10-06 23:44:46,185 - Model - INFO - Instance mIoU (penalize):  0.3755
+2025-10-06 23:44:46,185 - Model - INFO - Class mIoU (dataset avg):  0.3798
+2025-10-06 23:48:48,201 - Model - INFO - PARAMETER ...
+2025-10-06 23:48:48,201 - Model - INFO - Namespace(batch_size=24, gpu='0', num_point=2048, log_dir='without_normal', normal=False, num_votes=3, root='data/shapenet_c_add/add_global_s4')
+2025-10-06 23:48:48,216 - Model - INFO - The number of test data is: 2874
+2025-10-06 23:49:27,374 - Model - INFO - PARAMETER ...
+2025-10-06 23:49:27,374 - Model - INFO - Namespace(batch_size=24, gpu='0', num_point=2048, log_dir='without_normal', normal=False, num_votes=3, root='data/shapenet_c_add/add_global_s5')
+2025-10-06 23:49:27,409 - Model - INFO - The number of test data is: 2874
+2025-10-06 23:50:02,479 - Model - INFO - ========================================
+2025-10-06 23:50:02,479 - Model - INFO - Overall Acc (penalize -1): 0.4969
+2025-10-06 23:50:02,479 - Model - INFO - Instance mIoU (penalize):  0.3258
+2025-10-06 23:50:02,479 - Model - INFO - Class mIoU (dataset avg):  0.3343
+2025-10-07 10:50:54,685 - Model - INFO - PARAMETER ...
+2025-10-07 10:50:54,685 - Model - INFO - Namespace(batch_size=24, gpu='0', num_point=2048, log_dir='without_normal', normal=False, num_votes=3, root='data/shapenet_c_add/add_local_s3')
+2025-10-07 10:50:54,711 - Model - INFO - The number of test data is: 2874
+2025-10-07 10:51:22,700 - Model - INFO - PARAMETER ...
+2025-10-07 10:51:22,700 - Model - INFO - Namespace(batch_size=24, gpu='0', num_point=2048, log_dir='without_normal', normal=False, num_votes=3, root='data/shapenet_c_add/add_global_s3')
+2025-10-07 10:51:22,722 - Model - INFO - The number of test data is: 2874
+2025-10-07 10:51:59,692 - Model - INFO - ========================================
+2025-10-07 10:51:59,692 - Model - INFO - Overall Acc (penalize -1): 0.6610
+2025-10-07 10:51:59,692 - Model - INFO - Instance mIoU (penalize):  0.4490
+2025-10-07 10:51:59,692 - Model - INFO - Class mIoU (dataset avg):  0.4539
+2025-10-07 10:53:39,548 - Model - INFO - PARAMETER ...
+2025-10-07 10:53:39,549 - Model - INFO - Namespace(batch_size=24, gpu='0', num_point=2048, log_dir='without_normal', normal=False, num_votes=3, root='data/shapenetcore_partanno_segmentation_benchmark_v0_normal/')
+2025-10-07 10:53:39,580 - Model - INFO - The number of test data is: 2874
+2025-10-07 10:54:14,619 - Model - INFO - ========================================
+2025-10-07 10:54:14,619 - Model - INFO - Overall Acc (penalize -1): 0.9396
+2025-10-07 10:54:14,619 - Model - INFO - Instance mIoU (penalize):  0.8459
+2025-10-07 10:54:14,619 - Model - INFO - Class mIoU (dataset avg):  0.8121
+2025-10-08 19:28:57,778 - Model - INFO - PARAMETER ...
+2025-10-08 19:28:57,778 - Model - INFO - Namespace(batch_size=24, gpu='0', num_point=2048, log_dir='without_normal', normal=False, num_votes=3, root='data/shapenetcore_partanno_segmentation_benchmark_v0_normal/')
+2025-10-08 19:28:57,811 - Model - INFO - The number of test data is: 2874
+2025-10-08 19:29:32,867 - Model - INFO - ========================================
+2025-10-08 19:29:32,867 - Model - INFO - Overall Acc (penalize -1): 0.9402
+2025-10-08 19:29:32,867 - Model - INFO - Instance mIoU (penalize):  0.8449
+2025-10-08 19:29:32,867 - Model - INFO - Class mIoU (dataset avg):  0.8128
+2025-10-08 19:29:54,943 - Model - INFO - PARAMETER ...
+2025-10-08 19:29:54,943 - Model - INFO - Namespace(batch_size=24, gpu='0', num_point=2048, log_dir='without_normal', normal=False, num_votes=1, root='data/shapenetcore_partanno_segmentation_benchmark_v0_normal/')
+2025-10-08 19:29:54,978 - Model - INFO - The number of test data is: 2874
+2025-10-08 19:30:29,965 - Model - INFO - ========================================
+2025-10-08 19:30:29,965 - Model - INFO - Overall Acc (penalize -1): 0.9399
+2025-10-08 19:30:29,967 - Model - INFO - Instance mIoU (penalize):  0.8449
+2025-10-08 19:30:29,967 - Model - INFO - Class mIoU (dataset avg):  0.8133
+2025-10-10 10:57:40,606 - Model - INFO - PARAMETER ...
+2025-10-10 10:57:40,607 - Model - INFO - Namespace(batch_size=24, gpu='0', num_point=2048, log_dir='without_normal', normal=False, num_votes=1, root='data/shapenetcore_partanno_segmentation_benchmark_v0_normal/')
+2025-10-10 10:57:40,639 - Model - INFO - The number of test data is: 2874
+2025-10-10 10:58:15,218 - Model - INFO - ========================================
+2025-10-10 10:58:15,218 - Model - INFO - Overall Acc (penalize -1): 0.9393
+2025-10-10 10:58:15,218 - Model - INFO - Instance mIoU (penalize):  0.8428
+2025-10-10 10:58:15,218 - Model - INFO - Class mIoU (dataset avg):  0.8096
