@@ -1,0 +1,635 @@
+2025-09-26 14:28:04,202 - INFO - Model: sngp_s2_6layers | Device: cuda 
+2025-09-26 14:31:06,765 - INFO - Epoch 1/200 | lr=0.001000 | bn_mom=0.1000 | amp=True
+2025-09-26 14:38:02,768 - INFO - Train acc: 0.77173
+2025-09-26 14:38:49,058 - INFO - Epoch 1 | Test Acc: 0.7860 | Class mIoU: 0.6838 | Inst mIoU: 0.6825 | Best Acc: 0.7860
+2025-09-26 14:38:53,941 - INFO - [Best] Updated /scratch/user/zuoxu/datasets/shapenet_noise/log/part_seg_sngp/2025-09-26_14-27/checkpoints/best.ckpt (acc=0.7860)
+2025-09-26 14:38:53,941 - INFO - Epoch 2/200 | lr=0.001000 | bn_mom=0.1000 | amp=True
+2025-09-26 14:43:46,964 - INFO - Train acc: 0.86638
+2025-09-26 14:44:46,356 - INFO - Epoch 2 | Test Acc: 0.8679 | Class mIoU: 0.7422 | Inst mIoU: 0.7414 | Best Acc: 0.8679
+2025-09-26 14:44:50,279 - INFO - [Best] Updated /scratch/user/zuoxu/datasets/shapenet_noise/log/part_seg_sngp/2025-09-26_14-27/checkpoints/best.ckpt (acc=0.8679)
+2025-09-26 14:44:50,279 - INFO - Epoch 3/200 | lr=0.001000 | bn_mom=0.1000 | amp=True
+2025-09-26 14:49:25,042 - INFO - Train acc: 0.88194
+2025-09-26 14:50:05,228 - INFO - Epoch 3 | Test Acc: 0.8831 | Class mIoU: 0.7564 | Inst mIoU: 0.7559 | Best Acc: 0.8831
+2025-09-26 14:50:05,335 - INFO - [Best] Updated /scratch/user/zuoxu/datasets/shapenet_noise/log/part_seg_sngp/2025-09-26_14-27/checkpoints/best.ckpt (acc=0.8831)
+2025-09-26 14:50:05,335 - INFO - Epoch 4/200 | lr=0.001000 | bn_mom=0.1000 | amp=True
+2025-09-26 14:54:39,872 - INFO - Train acc: 0.89515
+2025-09-26 14:55:20,056 - INFO - Epoch 4 | Test Acc: 0.8661 | Class mIoU: 0.7436 | Inst mIoU: 0.7429 | Best Acc: 0.8831
+2025-09-26 14:55:20,057 - INFO - Epoch 5/200 | lr=0.001000 | bn_mom=0.1000 | amp=True
+2025-09-26 15:00:40,078 - INFO - Train acc: 0.89658
+2025-09-26 15:01:23,083 - INFO - Epoch 5 | Test Acc: 0.8959 | Class mIoU: 0.7720 | Inst mIoU: 0.7706 | Best Acc: 0.8959
+2025-09-26 15:01:53,179 - INFO - [Best] Updated /scratch/user/zuoxu/datasets/shapenet_noise/log/part_seg_sngp/2025-09-26_14-27/checkpoints/best.ckpt (acc=0.8959)
+2025-09-26 15:02:05,413 - INFO - Epoch 6/200 | lr=0.001000 | bn_mom=0.1000 | amp=True
+2025-09-26 15:06:43,324 - INFO - Train acc: 0.90419
+2025-09-26 15:07:23,502 - INFO - Epoch 6 | Test Acc: 0.9040 | Class mIoU: 0.7946 | Inst mIoU: 0.7943 | Best Acc: 0.9040
+2025-09-26 15:07:24,605 - INFO - [Best] Updated /scratch/user/zuoxu/datasets/shapenet_noise/log/part_seg_sngp/2025-09-26_14-27/checkpoints/best.ckpt (acc=0.9040)
+2025-09-26 15:07:24,605 - INFO - Epoch 7/200 | lr=0.001000 | bn_mom=0.1000 | amp=True
+2025-09-26 15:12:01,142 - INFO - Train acc: 0.90304
+2025-09-26 15:12:47,993 - INFO - Epoch 7 | Test Acc: 0.8910 | Class mIoU: 0.7832 | Inst mIoU: 0.7827 | Best Acc: 0.9040
+2025-09-26 15:12:47,994 - INFO - Epoch 8/200 | lr=0.001000 | bn_mom=0.1000 | amp=True
+2025-09-26 15:17:58,125 - INFO - Train acc: 0.90917
+2025-09-26 15:18:38,295 - INFO - Epoch 8 | Test Acc: 0.8739 | Class mIoU: 0.7703 | Inst mIoU: 0.7702 | Best Acc: 0.9040
+2025-09-26 15:18:38,295 - INFO - Epoch 9/200 | lr=0.001000 | bn_mom=0.1000 | amp=True
+2025-09-26 15:23:25,120 - INFO - Train acc: 0.91011
+2025-09-26 15:24:05,541 - INFO - Epoch 9 | Test Acc: 0.8679 | Class mIoU: 0.7606 | Inst mIoU: 0.7605 | Best Acc: 0.9040
+2025-09-26 15:24:05,541 - INFO - Epoch 10/200 | lr=0.001000 | bn_mom=0.1000 | amp=True
+2025-09-26 15:28:51,051 - INFO - Train acc: 0.91317
+2025-09-26 15:29:31,335 - INFO - Epoch 10 | Test Acc: 0.9075 | Class mIoU: 0.7953 | Inst mIoU: 0.7951 | Best Acc: 0.9075
+2025-09-26 15:29:34,980 - INFO - [Best] Updated /scratch/user/zuoxu/datasets/shapenet_noise/log/part_seg_sngp/2025-09-26_14-27/checkpoints/best.ckpt (acc=0.9075)
+2025-09-26 15:29:34,980 - INFO - Epoch 11/200 | lr=0.001000 | bn_mom=0.1000 | amp=True
+2025-09-26 15:34:11,168 - INFO - Train acc: 0.91301
+2025-09-26 15:34:51,293 - INFO - Epoch 11 | Test Acc: 0.8847 | Class mIoU: 0.7763 | Inst mIoU: 0.7760 | Best Acc: 0.9075
+2025-09-26 15:34:51,294 - INFO - Epoch 12/200 | lr=0.001000 | bn_mom=0.1000 | amp=True
+2025-09-26 15:39:50,727 - INFO - Train acc: 0.91514
+2025-09-26 15:40:33,355 - INFO - Epoch 12 | Test Acc: 0.9075 | Class mIoU: 0.7962 | Inst mIoU: 0.7950 | Best Acc: 0.9075
+2025-09-26 15:40:34,777 - INFO - [Best] Updated /scratch/user/zuoxu/datasets/shapenet_noise/log/part_seg_sngp/2025-09-26_14-27/checkpoints/best.ckpt (acc=0.9075)
+2025-09-26 15:40:34,777 - INFO - Epoch 13/200 | lr=0.001000 | bn_mom=0.1000 | amp=True
+2025-09-26 15:45:15,123 - INFO - Train acc: 0.91675
+2025-09-26 15:45:55,452 - INFO - Epoch 13 | Test Acc: 0.8880 | Class mIoU: 0.7713 | Inst mIoU: 0.7719 | Best Acc: 0.9075
+2025-09-26 15:45:55,453 - INFO - Epoch 14/200 | lr=0.001000 | bn_mom=0.1000 | amp=True
+2025-09-26 15:50:32,071 - INFO - Train acc: 0.91719
+2025-09-26 15:51:12,137 - INFO - Epoch 14 | Test Acc: 0.8987 | Class mIoU: 0.7938 | Inst mIoU: 0.7932 | Best Acc: 0.9075
+2025-09-26 15:51:12,138 - INFO - Epoch 15/200 | lr=0.001000 | bn_mom=0.1000 | amp=True
+2025-09-26 15:55:47,094 - INFO - Train acc: 0.91991
+2025-09-26 15:56:28,600 - INFO - Epoch 15 | Test Acc: 0.8513 | Class mIoU: 0.7630 | Inst mIoU: 0.7619 | Best Acc: 0.9075
+2025-09-26 15:56:28,601 - INFO - Epoch 16/200 | lr=0.001000 | bn_mom=0.1000 | amp=True
+2025-09-26 16:01:17,122 - INFO - Train acc: 0.91769
+2025-09-26 16:01:59,221 - INFO - Epoch 16 | Test Acc: 0.9004 | Class mIoU: 0.7957 | Inst mIoU: 0.7956 | Best Acc: 0.9075
+2025-09-26 16:01:59,222 - INFO - Epoch 17/200 | lr=0.001000 | bn_mom=0.1000 | amp=True
+2025-09-26 16:06:37,192 - INFO - Train acc: 0.92211
+2025-09-26 16:07:18,028 - INFO - Epoch 17 | Test Acc: 0.9101 | Class mIoU: 0.7972 | Inst mIoU: 0.7967 | Best Acc: 0.9101
+2025-09-26 16:07:19,204 - INFO - [Best] Updated /scratch/user/zuoxu/datasets/shapenet_noise/log/part_seg_sngp/2025-09-26_14-27/checkpoints/best.ckpt (acc=0.9101)
+2025-09-26 16:07:19,205 - INFO - Epoch 18/200 | lr=0.001000 | bn_mom=0.1000 | amp=True
+2025-09-26 16:12:00,636 - INFO - Train acc: 0.92080
+2025-09-26 16:12:41,672 - INFO - Epoch 18 | Test Acc: 0.9058 | Class mIoU: 0.7962 | Inst mIoU: 0.7960 | Best Acc: 0.9101
+2025-09-26 16:12:41,672 - INFO - Epoch 19/200 | lr=0.001000 | bn_mom=0.1000 | amp=True
+2025-09-26 16:17:19,946 - INFO - Train acc: 0.92205
+2025-09-26 16:18:00,058 - INFO - Epoch 19 | Test Acc: 0.9068 | Class mIoU: 0.7984 | Inst mIoU: 0.7984 | Best Acc: 0.9101
+2025-09-26 16:18:00,058 - INFO - Epoch 20/200 | lr=0.001000 | bn_mom=0.1000 | amp=True
+2025-09-26 16:22:39,722 - INFO - Train acc: 0.92108
+2025-09-26 16:23:20,023 - INFO - Epoch 20 | Test Acc: 0.9072 | Class mIoU: 0.8015 | Inst mIoU: 0.8009 | Best Acc: 0.9101
+2025-09-26 16:23:20,023 - INFO - Epoch 21/200 | lr=0.000500 | bn_mom=0.0500 | amp=True
+2025-09-26 16:28:08,218 - INFO - Train acc: 0.93162
+2025-09-26 16:28:48,291 - INFO - Epoch 21 | Test Acc: 0.9203 | Class mIoU: 0.8225 | Inst mIoU: 0.8221 | Best Acc: 0.9203
+2025-09-26 16:28:48,442 - INFO - [Best] Updated /scratch/user/zuoxu/datasets/shapenet_noise/log/part_seg_sngp/2025-09-26_14-27/checkpoints/best.ckpt (acc=0.9203)
+2025-09-26 16:28:48,442 - INFO - Epoch 22/200 | lr=0.000500 | bn_mom=0.0500 | amp=True
+2025-09-26 16:33:25,347 - INFO - Train acc: 0.93263
+2025-09-26 16:34:11,070 - INFO - Epoch 22 | Test Acc: 0.9198 | Class mIoU: 0.8164 | Inst mIoU: 0.8154 | Best Acc: 0.9203
+2025-09-26 16:34:11,070 - INFO - Epoch 23/200 | lr=0.000500 | bn_mom=0.0500 | amp=True
+2025-09-26 16:39:09,457 - INFO - Train acc: 0.93252
+2025-09-26 16:39:50,963 - INFO - Epoch 23 | Test Acc: 0.9088 | Class mIoU: 0.8039 | Inst mIoU: 0.8030 | Best Acc: 0.9203
+2025-09-26 16:39:50,963 - INFO - Epoch 24/200 | lr=0.000500 | bn_mom=0.0500 | amp=True
+2025-09-26 16:44:34,229 - INFO - Train acc: 0.93334
+2025-09-26 16:45:14,613 - INFO - Epoch 24 | Test Acc: 0.9199 | Class mIoU: 0.8236 | Inst mIoU: 0.8228 | Best Acc: 0.9203
+2025-09-26 16:45:14,614 - INFO - Epoch 25/200 | lr=0.000500 | bn_mom=0.0500 | amp=True
+2025-09-26 16:49:52,329 - INFO - Train acc: 0.93336
+2025-09-26 16:50:32,436 - INFO - Epoch 25 | Test Acc: 0.9149 | Class mIoU: 0.8112 | Inst mIoU: 0.8103 | Best Acc: 0.9203
+2025-09-26 16:50:32,436 - INFO - Epoch 26/200 | lr=0.000500 | bn_mom=0.0500 | amp=True
+2025-09-26 16:55:24,222 - INFO - Train acc: 0.93371
+2025-09-26 16:56:05,273 - INFO - Epoch 26 | Test Acc: 0.9190 | Class mIoU: 0.8222 | Inst mIoU: 0.8220 | Best Acc: 0.9203
+2025-09-26 16:56:05,274 - INFO - Epoch 27/200 | lr=0.000500 | bn_mom=0.0500 | amp=True
+2025-09-26 17:00:45,015 - INFO - Train acc: 0.93364
+2025-09-26 17:01:25,042 - INFO - Epoch 27 | Test Acc: 0.9117 | Class mIoU: 0.8131 | Inst mIoU: 0.8121 | Best Acc: 0.9203
+2025-09-26 17:01:25,043 - INFO - Epoch 28/200 | lr=0.000500 | bn_mom=0.0500 | amp=True
+2025-09-26 17:06:12,404 - INFO - Train acc: 0.93457
+2025-09-26 17:07:02,657 - INFO - Epoch 28 | Test Acc: 0.9189 | Class mIoU: 0.8159 | Inst mIoU: 0.8157 | Best Acc: 0.9203
+2025-09-26 17:07:02,658 - INFO - Epoch 29/200 | lr=0.000500 | bn_mom=0.0500 | amp=True
+2025-09-26 17:11:39,507 - INFO - Train acc: 0.93408
+2025-09-26 17:12:19,705 - INFO - Epoch 29 | Test Acc: 0.9134 | Class mIoU: 0.8115 | Inst mIoU: 0.8112 | Best Acc: 0.9203
+2025-09-26 17:12:19,705 - INFO - Epoch 30/200 | lr=0.000500 | bn_mom=0.0500 | amp=True
+2025-09-26 17:16:56,080 - INFO - Train acc: 0.93441
+2025-09-26 17:17:38,555 - INFO - Epoch 30 | Test Acc: 0.9070 | Class mIoU: 0.8027 | Inst mIoU: 0.8005 | Best Acc: 0.9203
+2025-09-26 17:17:38,555 - INFO - Epoch 31/200 | lr=0.000500 | bn_mom=0.0500 | amp=True
+2025-09-26 17:22:12,804 - INFO - Train acc: 0.93622
+2025-09-26 17:22:52,966 - INFO - Epoch 31 | Test Acc: 0.9216 | Class mIoU: 0.8208 | Inst mIoU: 0.8204 | Best Acc: 0.9216
+2025-09-26 17:22:54,562 - INFO - [Best] Updated /scratch/user/zuoxu/datasets/shapenet_noise/log/part_seg_sngp/2025-09-26_14-27/checkpoints/best.ckpt (acc=0.9216)
+2025-09-26 17:22:54,562 - INFO - Epoch 32/200 | lr=0.000500 | bn_mom=0.0500 | amp=True
+2025-09-26 17:27:30,662 - INFO - Train acc: 0.93486
+2025-09-26 17:28:10,726 - INFO - Epoch 32 | Test Acc: 0.9131 | Class mIoU: 0.8140 | Inst mIoU: 0.8134 | Best Acc: 0.9216
+2025-09-26 17:28:10,727 - INFO - Epoch 33/200 | lr=0.000500 | bn_mom=0.0500 | amp=True
+2025-09-26 17:32:49,218 - INFO - Train acc: 0.93502
+2025-09-26 17:33:29,351 - INFO - Epoch 33 | Test Acc: 0.9143 | Class mIoU: 0.8149 | Inst mIoU: 0.8143 | Best Acc: 0.9216
+2025-09-26 17:33:29,351 - INFO - Epoch 34/200 | lr=0.000500 | bn_mom=0.0500 | amp=True
+2025-09-26 17:38:30,481 - INFO - Train acc: 0.93549
+2025-09-26 17:39:14,848 - INFO - Epoch 34 | Test Acc: 0.9174 | Class mIoU: 0.8210 | Inst mIoU: 0.8194 | Best Acc: 0.9216
+2025-09-26 17:39:14,848 - INFO - Epoch 35/200 | lr=0.000500 | bn_mom=0.0500 | amp=True
+2025-09-26 17:44:02,313 - INFO - Train acc: 0.93555
+2025-09-26 17:44:44,046 - INFO - Epoch 35 | Test Acc: 0.9101 | Class mIoU: 0.8105 | Inst mIoU: 0.8108 | Best Acc: 0.9216
+2025-09-26 17:44:44,046 - INFO - Epoch 36/200 | lr=0.000500 | bn_mom=0.0500 | amp=True
+2025-09-26 17:49:19,870 - INFO - Train acc: 0.93585
+2025-09-26 17:49:59,977 - INFO - Epoch 36 | Test Acc: 0.9162 | Class mIoU: 0.8168 | Inst mIoU: 0.8153 | Best Acc: 0.9216
+2025-09-26 17:49:59,978 - INFO - Epoch 37/200 | lr=0.000500 | bn_mom=0.0500 | amp=True
+2025-09-26 17:54:33,926 - INFO - Train acc: 0.93691
+2025-09-26 17:55:14,406 - INFO - Epoch 37 | Test Acc: 0.9089 | Class mIoU: 0.8038 | Inst mIoU: 0.8029 | Best Acc: 0.9216
+2025-09-26 17:55:14,406 - INFO - Epoch 38/200 | lr=0.000500 | bn_mom=0.0500 | amp=True
+2025-09-26 17:59:48,799 - INFO - Train acc: 0.93617
+2025-09-26 18:00:28,921 - INFO - Epoch 38 | Test Acc: 0.9204 | Class mIoU: 0.8186 | Inst mIoU: 0.8179 | Best Acc: 0.9216
+2025-09-26 18:00:28,922 - INFO - Epoch 39/200 | lr=0.000500 | bn_mom=0.0500 | amp=True
+2025-09-26 18:05:05,472 - INFO - Train acc: 0.93571
+2025-09-26 18:05:45,485 - INFO - Epoch 39 | Test Acc: 0.9095 | Class mIoU: 0.8106 | Inst mIoU: 0.8111 | Best Acc: 0.9216
+2025-09-26 18:05:45,485 - INFO - Epoch 40/200 | lr=0.000500 | bn_mom=0.0500 | amp=True
+2025-09-26 18:10:19,256 - INFO - Train acc: 0.93694
+2025-09-26 18:10:59,344 - INFO - Epoch 40 | Test Acc: 0.9196 | Class mIoU: 0.8176 | Inst mIoU: 0.8174 | Best Acc: 0.9216
+2025-09-26 18:10:59,345 - INFO - Epoch 41/200 | lr=0.000250 | bn_mom=0.0250 | amp=True
+2025-09-26 18:15:33,305 - INFO - Train acc: 0.94177
+2025-09-26 18:16:13,358 - INFO - Epoch 41 | Test Acc: 0.9224 | Class mIoU: 0.8263 | Inst mIoU: 0.8257 | Best Acc: 0.9224
+2025-09-26 18:16:14,284 - INFO - [Best] Updated /scratch/user/zuoxu/datasets/shapenet_noise/log/part_seg_sngp/2025-09-26_14-27/checkpoints/best.ckpt (acc=0.9224)
+2025-09-26 18:16:14,284 - INFO - Epoch 42/200 | lr=0.000250 | bn_mom=0.0250 | amp=True
+2025-09-26 18:20:48,835 - INFO - Train acc: 0.94195
+2025-09-26 18:21:29,118 - INFO - Epoch 42 | Test Acc: 0.9253 | Class mIoU: 0.8296 | Inst mIoU: 0.8293 | Best Acc: 0.9253
+2025-09-26 18:21:29,322 - INFO - [Best] Updated /scratch/user/zuoxu/datasets/shapenet_noise/log/part_seg_sngp/2025-09-26_14-27/checkpoints/best.ckpt (acc=0.9253)
+2025-09-26 18:21:29,322 - INFO - Epoch 43/200 | lr=0.000250 | bn_mom=0.0250 | amp=True
+2025-09-26 18:26:03,301 - INFO - Train acc: 0.94251
+2025-09-26 18:26:43,382 - INFO - Epoch 43 | Test Acc: 0.9263 | Class mIoU: 0.8324 | Inst mIoU: 0.8323 | Best Acc: 0.9263
+2025-09-26 18:26:43,521 - INFO - [Best] Updated /scratch/user/zuoxu/datasets/shapenet_noise/log/part_seg_sngp/2025-09-26_14-27/checkpoints/best.ckpt (acc=0.9263)
+2025-09-26 18:26:43,522 - INFO - Epoch 44/200 | lr=0.000250 | bn_mom=0.0250 | amp=True
+2025-09-26 18:31:17,696 - INFO - Train acc: 0.94276
+2025-09-26 18:31:57,775 - INFO - Epoch 44 | Test Acc: 0.9246 | Class mIoU: 0.8320 | Inst mIoU: 0.8313 | Best Acc: 0.9263
+2025-09-26 18:31:57,775 - INFO - Epoch 45/200 | lr=0.000250 | bn_mom=0.0250 | amp=True
+2025-09-26 18:36:34,763 - INFO - Train acc: 0.94264
+2025-09-26 18:37:14,733 - INFO - Epoch 45 | Test Acc: 0.9210 | Class mIoU: 0.8213 | Inst mIoU: 0.8216 | Best Acc: 0.9263
+2025-09-26 18:37:14,734 - INFO - Epoch 46/200 | lr=0.000250 | bn_mom=0.0250 | amp=True
+2025-09-26 18:41:48,728 - INFO - Train acc: 0.94302
+2025-09-26 18:42:29,120 - INFO - Epoch 46 | Test Acc: 0.9259 | Class mIoU: 0.8323 | Inst mIoU: 0.8320 | Best Acc: 0.9263
+2025-09-26 18:42:29,120 - INFO - Epoch 47/200 | lr=0.000250 | bn_mom=0.0250 | amp=True
+2025-09-26 18:47:04,796 - INFO - Train acc: 0.94370
+2025-09-26 18:48:04,148 - INFO - Epoch 47 | Test Acc: 0.9236 | Class mIoU: 0.8300 | Inst mIoU: 0.8298 | Best Acc: 0.9263
+2025-09-26 18:48:04,239 - INFO - Epoch 48/200 | lr=0.000250 | bn_mom=0.0250 | amp=True
+2025-09-26 18:52:49,055 - INFO - Train acc: 0.94316
+2025-09-26 18:53:29,311 - INFO - Epoch 48 | Test Acc: 0.9236 | Class mIoU: 0.8307 | Inst mIoU: 0.8306 | Best Acc: 0.9263
+2025-09-26 18:53:29,317 - INFO - Epoch 49/200 | lr=0.000250 | bn_mom=0.0250 | amp=True
+2025-09-26 18:58:03,769 - INFO - Train acc: 0.94396
+2025-09-26 18:58:43,700 - INFO - Epoch 49 | Test Acc: 0.9240 | Class mIoU: 0.8308 | Inst mIoU: 0.8306 | Best Acc: 0.9263
+2025-09-26 18:58:43,701 - INFO - Epoch 50/200 | lr=0.000250 | bn_mom=0.0250 | amp=True
+2025-09-26 19:03:17,760 - INFO - Train acc: 0.94428
+2025-09-26 19:03:57,898 - INFO - Epoch 50 | Test Acc: 0.9239 | Class mIoU: 0.8301 | Inst mIoU: 0.8295 | Best Acc: 0.9263
+2025-09-26 19:03:57,899 - INFO - Epoch 51/200 | lr=0.000250 | bn_mom=0.0250 | amp=True
+2025-09-26 19:08:34,647 - INFO - Train acc: 0.94449
+2025-09-26 19:09:14,875 - INFO - Epoch 51 | Test Acc: 0.9267 | Class mIoU: 0.8344 | Inst mIoU: 0.8342 | Best Acc: 0.9267
+2025-09-26 19:09:16,358 - INFO - [Best] Updated /scratch/user/zuoxu/datasets/shapenet_noise/log/part_seg_sngp/2025-09-26_14-27/checkpoints/best.ckpt (acc=0.9267)
+2025-09-26 19:09:16,359 - INFO - Epoch 52/200 | lr=0.000250 | bn_mom=0.0250 | amp=True
+2025-09-26 19:13:52,113 - INFO - Train acc: 0.94404
+2025-09-26 19:14:32,266 - INFO - Epoch 52 | Test Acc: 0.9255 | Class mIoU: 0.8353 | Inst mIoU: 0.8349 | Best Acc: 0.9267
+2025-09-26 19:14:32,267 - INFO - Epoch 53/200 | lr=0.000250 | bn_mom=0.0250 | amp=True
+2025-09-26 19:19:06,742 - INFO - Train acc: 0.94293
+2025-09-26 19:19:46,876 - INFO - Epoch 53 | Test Acc: 0.9248 | Class mIoU: 0.8305 | Inst mIoU: 0.8301 | Best Acc: 0.9267
+2025-09-26 19:19:46,877 - INFO - Epoch 54/200 | lr=0.000250 | bn_mom=0.0250 | amp=True
+2025-09-26 19:24:21,758 - INFO - Train acc: 0.94428
+2025-09-26 19:25:01,933 - INFO - Epoch 54 | Test Acc: 0.9243 | Class mIoU: 0.8306 | Inst mIoU: 0.8301 | Best Acc: 0.9267
+2025-09-26 19:25:01,934 - INFO - Epoch 55/200 | lr=0.000250 | bn_mom=0.0250 | amp=True
+2025-09-26 19:29:37,284 - INFO - Train acc: 0.94476
+2025-09-26 19:30:17,373 - INFO - Epoch 55 | Test Acc: 0.9254 | Class mIoU: 0.8339 | Inst mIoU: 0.8335 | Best Acc: 0.9267
+2025-09-26 19:30:17,374 - INFO - Epoch 56/200 | lr=0.000250 | bn_mom=0.0250 | amp=True
+2025-09-26 19:34:52,136 - INFO - Train acc: 0.94475
+2025-09-26 19:35:32,295 - INFO - Epoch 56 | Test Acc: 0.9222 | Class mIoU: 0.8310 | Inst mIoU: 0.8308 | Best Acc: 0.9267
+2025-09-26 19:35:32,296 - INFO - Epoch 57/200 | lr=0.000250 | bn_mom=0.0250 | amp=True
+2025-09-26 19:40:08,046 - INFO - Train acc: 0.94484
+2025-09-26 19:40:48,190 - INFO - Epoch 57 | Test Acc: 0.9274 | Class mIoU: 0.8327 | Inst mIoU: 0.8322 | Best Acc: 0.9274
+2025-09-26 19:40:50,821 - INFO - [Best] Updated /scratch/user/zuoxu/datasets/shapenet_noise/log/part_seg_sngp/2025-09-26_14-27/checkpoints/best.ckpt (acc=0.9274)
+2025-09-26 19:40:50,822 - INFO - Epoch 58/200 | lr=0.000250 | bn_mom=0.0250 | amp=True
+2025-09-26 19:45:43,250 - INFO - Train acc: 0.94473
+2025-09-26 19:46:23,382 - INFO - Epoch 58 | Test Acc: 0.9253 | Class mIoU: 0.8344 | Inst mIoU: 0.8344 | Best Acc: 0.9274
+2025-09-26 19:46:23,383 - INFO - Epoch 59/200 | lr=0.000250 | bn_mom=0.0250 | amp=True
+2025-09-26 19:51:00,542 - INFO - Train acc: 0.94464
+2025-09-26 19:51:41,947 - INFO - Epoch 59 | Test Acc: 0.9241 | Class mIoU: 0.8329 | Inst mIoU: 0.8326 | Best Acc: 0.9274
+2025-09-26 19:51:41,947 - INFO - Epoch 60/200 | lr=0.000250 | bn_mom=0.0250 | amp=True
+2025-09-26 19:56:30,064 - INFO - Train acc: 0.94598
+2025-09-26 19:57:13,564 - INFO - Epoch 60 | Test Acc: 0.9263 | Class mIoU: 0.8356 | Inst mIoU: 0.8355 | Best Acc: 0.9274
+2025-09-26 19:57:13,585 - INFO - Epoch 61/200 | lr=0.000125 | bn_mom=0.0125 | amp=True
+2025-09-26 20:01:48,035 - INFO - Train acc: 0.94794
+2025-09-26 20:02:28,109 - INFO - Epoch 61 | Test Acc: 0.9251 | Class mIoU: 0.8334 | Inst mIoU: 0.8330 | Best Acc: 0.9274
+2025-09-26 20:02:28,109 - INFO - Epoch 62/200 | lr=0.000125 | bn_mom=0.0125 | amp=True
+2025-09-26 20:07:03,097 - INFO - Train acc: 0.94832
+2025-09-26 20:07:43,162 - INFO - Epoch 62 | Test Acc: 0.9279 | Class mIoU: 0.8372 | Inst mIoU: 0.8367 | Best Acc: 0.9279
+2025-09-26 20:07:45,629 - INFO - [Best] Updated /scratch/user/zuoxu/datasets/shapenet_noise/log/part_seg_sngp/2025-09-26_14-27/checkpoints/best.ckpt (acc=0.9279)
+2025-09-26 20:07:45,630 - INFO - Epoch 63/200 | lr=0.000125 | bn_mom=0.0125 | amp=True
+2025-09-26 20:12:19,758 - INFO - Train acc: 0.94853
+2025-09-26 20:12:59,774 - INFO - Epoch 63 | Test Acc: 0.9288 | Class mIoU: 0.8362 | Inst mIoU: 0.8361 | Best Acc: 0.9288
+2025-09-26 20:12:59,979 - INFO - [Best] Updated /scratch/user/zuoxu/datasets/shapenet_noise/log/part_seg_sngp/2025-09-26_14-27/checkpoints/best.ckpt (acc=0.9288)
+2025-09-26 20:12:59,980 - INFO - Epoch 64/200 | lr=0.000125 | bn_mom=0.0125 | amp=True
+2025-09-26 20:17:39,068 - INFO - Train acc: 0.94877
+2025-09-26 20:18:19,007 - INFO - Epoch 64 | Test Acc: 0.9301 | Class mIoU: 0.8401 | Inst mIoU: 0.8399 | Best Acc: 0.9301
+2025-09-26 20:18:19,118 - INFO - [Best] Updated /scratch/user/zuoxu/datasets/shapenet_noise/log/part_seg_sngp/2025-09-26_14-27/checkpoints/best.ckpt (acc=0.9301)
+2025-09-26 20:18:19,119 - INFO - Epoch 65/200 | lr=0.000125 | bn_mom=0.0125 | amp=True
+2025-09-26 20:22:55,338 - INFO - Train acc: 0.94896
+2025-09-26 20:23:35,467 - INFO - Epoch 65 | Test Acc: 0.9279 | Class mIoU: 0.8379 | Inst mIoU: 0.8380 | Best Acc: 0.9301
+2025-09-26 20:23:35,468 - INFO - Epoch 66/200 | lr=0.000125 | bn_mom=0.0125 | amp=True
+2025-09-26 20:28:09,305 - INFO - Train acc: 0.94908
+2025-09-26 20:28:49,330 - INFO - Epoch 66 | Test Acc: 0.9284 | Class mIoU: 0.8386 | Inst mIoU: 0.8384 | Best Acc: 0.9301
+2025-09-26 20:28:49,330 - INFO - Epoch 67/200 | lr=0.000125 | bn_mom=0.0125 | amp=True
+2025-09-26 20:33:23,723 - INFO - Train acc: 0.94899
+2025-09-26 20:34:03,773 - INFO - Epoch 67 | Test Acc: 0.9271 | Class mIoU: 0.8346 | Inst mIoU: 0.8345 | Best Acc: 0.9301
+2025-09-26 20:34:03,773 - INFO - Epoch 68/200 | lr=0.000125 | bn_mom=0.0125 | amp=True
+2025-09-26 20:38:37,778 - INFO - Train acc: 0.94963
+2025-09-26 20:39:17,842 - INFO - Epoch 68 | Test Acc: 0.9281 | Class mIoU: 0.8367 | Inst mIoU: 0.8365 | Best Acc: 0.9301
+2025-09-26 20:39:17,843 - INFO - Epoch 69/200 | lr=0.000125 | bn_mom=0.0125 | amp=True
+2025-09-26 20:43:51,606 - INFO - Train acc: 0.94927
+2025-09-26 20:44:31,597 - INFO - Epoch 69 | Test Acc: 0.9291 | Class mIoU: 0.8405 | Inst mIoU: 0.8401 | Best Acc: 0.9301
+2025-09-26 20:44:31,597 - INFO - Epoch 70/200 | lr=0.000125 | bn_mom=0.0125 | amp=True
+2025-09-26 20:49:05,459 - INFO - Train acc: 0.94914
+2025-09-26 20:49:45,493 - INFO - Epoch 70 | Test Acc: 0.9292 | Class mIoU: 0.8406 | Inst mIoU: 0.8403 | Best Acc: 0.9301
+2025-09-26 20:49:45,494 - INFO - Epoch 71/200 | lr=0.000125 | bn_mom=0.0125 | amp=True
+2025-09-26 20:54:22,787 - INFO - Train acc: 0.94920
+2025-09-26 20:55:03,531 - INFO - Epoch 71 | Test Acc: 0.9268 | Class mIoU: 0.8359 | Inst mIoU: 0.8354 | Best Acc: 0.9301
+2025-09-26 20:55:03,531 - INFO - Epoch 72/200 | lr=0.000125 | bn_mom=0.0125 | amp=True
+2025-09-26 20:59:57,257 - INFO - Train acc: 0.94937
+2025-09-26 21:00:39,367 - INFO - Epoch 72 | Test Acc: 0.9293 | Class mIoU: 0.8364 | Inst mIoU: 0.8361 | Best Acc: 0.9301
+2025-09-26 21:00:39,367 - INFO - Epoch 73/200 | lr=0.000125 | bn_mom=0.0125 | amp=True
+2025-09-26 21:05:13,050 - INFO - Train acc: 0.95043
+2025-09-26 21:05:53,082 - INFO - Epoch 73 | Test Acc: 0.9281 | Class mIoU: 0.8381 | Inst mIoU: 0.8376 | Best Acc: 0.9301
+2025-09-26 21:05:53,082 - INFO - Epoch 74/200 | lr=0.000125 | bn_mom=0.0125 | amp=True
+2025-09-26 21:10:26,810 - INFO - Train acc: 0.94989
+2025-09-26 21:11:06,839 - INFO - Epoch 74 | Test Acc: 0.9274 | Class mIoU: 0.8380 | Inst mIoU: 0.8376 | Best Acc: 0.9301
+2025-09-26 21:11:06,839 - INFO - Epoch 75/200 | lr=0.000125 | bn_mom=0.0125 | amp=True
+2025-09-26 21:15:40,848 - INFO - Train acc: 0.94978
+2025-09-26 21:16:20,918 - INFO - Epoch 75 | Test Acc: 0.9291 | Class mIoU: 0.8415 | Inst mIoU: 0.8411 | Best Acc: 0.9301
+2025-09-26 21:16:20,919 - INFO - Epoch 76/200 | lr=0.000125 | bn_mom=0.0125 | amp=True
+2025-09-26 21:20:54,570 - INFO - Train acc: 0.95016
+2025-09-26 21:21:34,571 - INFO - Epoch 76 | Test Acc: 0.9277 | Class mIoU: 0.8414 | Inst mIoU: 0.8409 | Best Acc: 0.9301
+2025-09-26 21:21:34,571 - INFO - Epoch 77/200 | lr=0.000125 | bn_mom=0.0125 | amp=True
+2025-09-26 21:26:08,457 - INFO - Train acc: 0.95009
+2025-09-26 21:26:48,482 - INFO - Epoch 77 | Test Acc: 0.9274 | Class mIoU: 0.8391 | Inst mIoU: 0.8388 | Best Acc: 0.9301
+2025-09-26 21:26:48,483 - INFO - Epoch 78/200 | lr=0.000125 | bn_mom=0.0125 | amp=True
+2025-09-26 21:31:23,284 - INFO - Train acc: 0.95053
+2025-09-26 21:32:03,300 - INFO - Epoch 78 | Test Acc: 0.9297 | Class mIoU: 0.8407 | Inst mIoU: 0.8401 | Best Acc: 0.9301
+2025-09-26 21:32:03,300 - INFO - Epoch 79/200 | lr=0.000125 | bn_mom=0.0125 | amp=True
+2025-09-26 21:36:37,684 - INFO - Train acc: 0.95056
+2025-09-26 21:37:17,698 - INFO - Epoch 79 | Test Acc: 0.9286 | Class mIoU: 0.8380 | Inst mIoU: 0.8375 | Best Acc: 0.9301
+2025-09-26 21:37:17,699 - INFO - Epoch 80/200 | lr=0.000125 | bn_mom=0.0125 | amp=True
+2025-09-26 21:41:51,806 - INFO - Train acc: 0.95011
+2025-09-26 21:42:31,737 - INFO - Epoch 80 | Test Acc: 0.9296 | Class mIoU: 0.8387 | Inst mIoU: 0.8380 | Best Acc: 0.9301
+2025-09-26 21:42:31,737 - INFO - Epoch 81/200 | lr=0.000063 | bn_mom=0.0100 | amp=True
+2025-09-26 21:47:05,656 - INFO - Train acc: 0.95166
+2025-09-26 21:47:46,105 - INFO - Epoch 81 | Test Acc: 0.9297 | Class mIoU: 0.8415 | Inst mIoU: 0.8410 | Best Acc: 0.9301
+2025-09-26 21:47:46,105 - INFO - Epoch 82/200 | lr=0.000063 | bn_mom=0.0100 | amp=True
+2025-09-26 21:52:20,011 - INFO - Train acc: 0.95205
+2025-09-26 21:52:59,974 - INFO - Epoch 82 | Test Acc: 0.9298 | Class mIoU: 0.8421 | Inst mIoU: 0.8416 | Best Acc: 0.9301
+2025-09-26 21:52:59,975 - INFO - Epoch 83/200 | lr=0.000063 | bn_mom=0.0100 | amp=True
+2025-09-26 21:57:34,288 - INFO - Train acc: 0.95220
+2025-09-26 21:58:14,297 - INFO - Epoch 83 | Test Acc: 0.9295 | Class mIoU: 0.8419 | Inst mIoU: 0.8415 | Best Acc: 0.9301
+2025-09-26 21:58:14,297 - INFO - Epoch 84/200 | lr=0.000063 | bn_mom=0.0100 | amp=True
+2025-09-26 22:02:52,902 - INFO - Train acc: 0.95260
+2025-09-26 22:03:41,640 - INFO - Epoch 84 | Test Acc: 0.9296 | Class mIoU: 0.8414 | Inst mIoU: 0.8410 | Best Acc: 0.9301
+2025-09-26 22:03:41,743 - INFO - Epoch 85/200 | lr=0.000063 | bn_mom=0.0100 | amp=True
+2025-09-26 22:08:20,633 - INFO - Train acc: 0.95282
+2025-09-26 22:09:00,771 - INFO - Epoch 85 | Test Acc: 0.9305 | Class mIoU: 0.8421 | Inst mIoU: 0.8416 | Best Acc: 0.9305
+2025-09-26 22:09:03,110 - INFO - [Best] Updated /scratch/user/zuoxu/datasets/shapenet_noise/log/part_seg_sngp/2025-09-26_14-27/checkpoints/best.ckpt (acc=0.9305)
+2025-09-26 22:09:03,110 - INFO - Epoch 86/200 | lr=0.000063 | bn_mom=0.0100 | amp=True
+2025-09-26 22:13:39,376 - INFO - Train acc: 0.95246
+2025-09-26 22:14:20,096 - INFO - Epoch 86 | Test Acc: 0.9297 | Class mIoU: 0.8425 | Inst mIoU: 0.8421 | Best Acc: 0.9305
+2025-09-26 22:14:20,097 - INFO - Epoch 87/200 | lr=0.000063 | bn_mom=0.0100 | amp=True
+2025-09-26 22:18:54,093 - INFO - Train acc: 0.95269
+2025-09-26 22:19:34,221 - INFO - Epoch 87 | Test Acc: 0.9302 | Class mIoU: 0.8419 | Inst mIoU: 0.8416 | Best Acc: 0.9305
+2025-09-26 22:19:34,221 - INFO - Epoch 88/200 | lr=0.000063 | bn_mom=0.0100 | amp=True
+2025-09-26 22:24:08,776 - INFO - Train acc: 0.95300
+2025-09-26 22:24:51,079 - INFO - Epoch 88 | Test Acc: 0.9305 | Class mIoU: 0.8414 | Inst mIoU: 0.8409 | Best Acc: 0.9305
+2025-09-26 22:24:51,689 - INFO - [Best] Updated /scratch/user/zuoxu/datasets/shapenet_noise/log/part_seg_sngp/2025-09-26_14-27/checkpoints/best.ckpt (acc=0.9305)
+2025-09-26 22:24:51,690 - INFO - Epoch 89/200 | lr=0.000063 | bn_mom=0.0100 | amp=True
+2025-09-26 22:29:25,890 - INFO - Train acc: 0.95287
+2025-09-26 22:30:07,043 - INFO - Epoch 89 | Test Acc: 0.9291 | Class mIoU: 0.8400 | Inst mIoU: 0.8397 | Best Acc: 0.9305
+2025-09-26 22:30:07,043 - INFO - Epoch 90/200 | lr=0.000063 | bn_mom=0.0100 | amp=True
+2025-09-26 22:34:41,255 - INFO - Train acc: 0.95328
+2025-09-26 22:35:21,309 - INFO - Epoch 90 | Test Acc: 0.9307 | Class mIoU: 0.8424 | Inst mIoU: 0.8420 | Best Acc: 0.9307
+2025-09-26 22:35:42,831 - INFO - [Best] Updated /scratch/user/zuoxu/datasets/shapenet_noise/log/part_seg_sngp/2025-09-26_14-27/checkpoints/best.ckpt (acc=0.9307)
+2025-09-26 22:35:42,831 - INFO - Epoch 91/200 | lr=0.000063 | bn_mom=0.0100 | amp=True
+2025-09-26 22:40:22,061 - INFO - Train acc: 0.95279
+2025-09-26 22:41:02,103 - INFO - Epoch 91 | Test Acc: 0.9299 | Class mIoU: 0.8421 | Inst mIoU: 0.8420 | Best Acc: 0.9307
+2025-09-26 22:41:02,103 - INFO - Epoch 92/200 | lr=0.000063 | bn_mom=0.0100 | amp=True
+2025-09-26 22:45:40,241 - INFO - Train acc: 0.95309
+2025-09-26 22:46:20,351 - INFO - Epoch 92 | Test Acc: 0.9304 | Class mIoU: 0.8427 | Inst mIoU: 0.8424 | Best Acc: 0.9307
+2025-09-26 22:46:20,351 - INFO - Epoch 93/200 | lr=0.000063 | bn_mom=0.0100 | amp=True
+2025-09-26 22:50:54,375 - INFO - Train acc: 0.95301
+2025-09-26 22:51:34,360 - INFO - Epoch 93 | Test Acc: 0.9268 | Class mIoU: 0.8386 | Inst mIoU: 0.8383 | Best Acc: 0.9307
+2025-09-26 22:51:34,360 - INFO - Epoch 94/200 | lr=0.000063 | bn_mom=0.0100 | amp=True
+2025-09-26 22:56:08,395 - INFO - Train acc: 0.95313
+2025-09-26 22:56:48,486 - INFO - Epoch 94 | Test Acc: 0.9308 | Class mIoU: 0.8432 | Inst mIoU: 0.8429 | Best Acc: 0.9308
+2025-09-26 22:57:10,520 - INFO - [Best] Updated /scratch/user/zuoxu/datasets/shapenet_noise/log/part_seg_sngp/2025-09-26_14-27/checkpoints/best.ckpt (acc=0.9308)
+2025-09-26 22:57:10,521 - INFO - Epoch 95/200 | lr=0.000063 | bn_mom=0.0100 | amp=True
+2025-09-26 23:01:44,279 - INFO - Train acc: 0.95339
+2025-09-26 23:02:24,407 - INFO - Epoch 95 | Test Acc: 0.9309 | Class mIoU: 0.8427 | Inst mIoU: 0.8422 | Best Acc: 0.9309
+2025-09-26 23:02:25,007 - INFO - [Best] Updated /scratch/user/zuoxu/datasets/shapenet_noise/log/part_seg_sngp/2025-09-26_14-27/checkpoints/best.ckpt (acc=0.9309)
+2025-09-26 23:02:25,008 - INFO - Epoch 96/200 | lr=0.000063 | bn_mom=0.0100 | amp=True
+2025-09-26 23:07:33,757 - INFO - Train acc: 0.95354
+2025-09-26 23:08:24,655 - INFO - Epoch 96 | Test Acc: 0.9288 | Class mIoU: 0.8414 | Inst mIoU: 0.8412 | Best Acc: 0.9309
+2025-09-26 23:08:24,892 - INFO - Epoch 97/200 | lr=0.000063 | bn_mom=0.0100 | amp=True
+2025-09-26 23:13:12,043 - INFO - Train acc: 0.95350
+2025-09-26 23:13:52,078 - INFO - Epoch 97 | Test Acc: 0.9306 | Class mIoU: 0.8422 | Inst mIoU: 0.8420 | Best Acc: 0.9309
+2025-09-26 23:13:52,079 - INFO - Epoch 98/200 | lr=0.000063 | bn_mom=0.0100 | amp=True
+2025-09-26 23:18:26,044 - INFO - Train acc: 0.95366
+2025-09-26 23:19:06,069 - INFO - Epoch 98 | Test Acc: 0.9304 | Class mIoU: 0.8430 | Inst mIoU: 0.8425 | Best Acc: 0.9309
+2025-09-26 23:19:06,070 - INFO - Epoch 99/200 | lr=0.000063 | bn_mom=0.0100 | amp=True
+2025-09-26 23:23:40,722 - INFO - Train acc: 0.95388
+2025-09-26 23:24:20,624 - INFO - Epoch 99 | Test Acc: 0.9302 | Class mIoU: 0.8404 | Inst mIoU: 0.8402 | Best Acc: 0.9309
+2025-09-26 23:24:20,624 - INFO - Epoch 100/200 | lr=0.000063 | bn_mom=0.0100 | amp=True
+2025-09-26 23:28:53,480 - INFO - Train acc: 0.95369
+2025-09-26 23:29:33,485 - INFO - Epoch 100 | Test Acc: 0.9300 | Class mIoU: 0.8407 | Inst mIoU: 0.8403 | Best Acc: 0.9309
+2025-09-26 23:29:33,486 - INFO - Epoch 101/200 | lr=0.000031 | bn_mom=0.0100 | amp=True
+2025-09-26 23:34:26,875 - INFO - Train acc: 0.95441
+2025-09-26 23:35:06,985 - INFO - Epoch 101 | Test Acc: 0.9297 | Class mIoU: 0.8429 | Inst mIoU: 0.8425 | Best Acc: 0.9309
+2025-09-26 23:35:06,986 - INFO - Epoch 102/200 | lr=0.000031 | bn_mom=0.0100 | amp=True
+2025-09-26 23:39:40,883 - INFO - Train acc: 0.95459
+2025-09-26 23:40:20,903 - INFO - Epoch 102 | Test Acc: 0.9311 | Class mIoU: 0.8426 | Inst mIoU: 0.8423 | Best Acc: 0.9311
+2025-09-26 23:40:21,837 - INFO - [Best] Updated /scratch/user/zuoxu/datasets/shapenet_noise/log/part_seg_sngp/2025-09-26_14-27/checkpoints/best.ckpt (acc=0.9311)
+2025-09-26 23:40:21,838 - INFO - Epoch 103/200 | lr=0.000031 | bn_mom=0.0100 | amp=True
+2025-09-26 23:44:56,336 - INFO - Train acc: 0.95467
+2025-09-26 23:45:36,377 - INFO - Epoch 103 | Test Acc: 0.9314 | Class mIoU: 0.8442 | Inst mIoU: 0.8438 | Best Acc: 0.9314
+2025-09-26 23:45:36,830 - INFO - [Best] Updated /scratch/user/zuoxu/datasets/shapenet_noise/log/part_seg_sngp/2025-09-26_14-27/checkpoints/best.ckpt (acc=0.9314)
+2025-09-26 23:45:36,830 - INFO - Epoch 104/200 | lr=0.000031 | bn_mom=0.0100 | amp=True
+2025-09-26 23:50:11,994 - INFO - Train acc: 0.95452
+2025-09-26 23:50:51,962 - INFO - Epoch 104 | Test Acc: 0.9303 | Class mIoU: 0.8424 | Inst mIoU: 0.8421 | Best Acc: 0.9314
+2025-09-26 23:50:51,963 - INFO - Epoch 105/200 | lr=0.000031 | bn_mom=0.0100 | amp=True
+2025-09-26 23:55:25,892 - INFO - Train acc: 0.95448
+2025-09-26 23:56:05,899 - INFO - Epoch 105 | Test Acc: 0.9312 | Class mIoU: 0.8446 | Inst mIoU: 0.8442 | Best Acc: 0.9314
+2025-09-26 23:56:05,899 - INFO - Epoch 106/200 | lr=0.000031 | bn_mom=0.0100 | amp=True
+2025-09-27 00:00:39,933 - INFO - Train acc: 0.95488
+2025-09-27 00:01:19,977 - INFO - Epoch 106 | Test Acc: 0.9304 | Class mIoU: 0.8430 | Inst mIoU: 0.8427 | Best Acc: 0.9314
+2025-09-27 00:01:19,977 - INFO - Epoch 107/200 | lr=0.000031 | bn_mom=0.0100 | amp=True
+2025-09-27 00:05:53,923 - INFO - Train acc: 0.95497
+2025-09-27 00:06:34,272 - INFO - Epoch 107 | Test Acc: 0.9315 | Class mIoU: 0.8434 | Inst mIoU: 0.8431 | Best Acc: 0.9315
+2025-09-27 00:06:35,802 - INFO - [Best] Updated /scratch/user/zuoxu/datasets/shapenet_noise/log/part_seg_sngp/2025-09-26_14-27/checkpoints/best.ckpt (acc=0.9315)
+2025-09-27 00:06:35,803 - INFO - Epoch 108/200 | lr=0.000031 | bn_mom=0.0100 | amp=True
+2025-09-27 00:11:32,037 - INFO - Train acc: 0.95508
+2025-09-27 00:12:15,657 - INFO - Epoch 108 | Test Acc: 0.9307 | Class mIoU: 0.8440 | Inst mIoU: 0.8433 | Best Acc: 0.9315
+2025-09-27 00:12:15,657 - INFO - Epoch 109/200 | lr=0.000031 | bn_mom=0.0100 | amp=True
+2025-09-27 00:18:54,468 - INFO - Train acc: 0.95487
+2025-09-27 00:19:45,632 - INFO - Epoch 109 | Test Acc: 0.9307 | Class mIoU: 0.8444 | Inst mIoU: 0.8439 | Best Acc: 0.9315
+2025-09-27 00:19:45,633 - INFO - Epoch 110/200 | lr=0.000031 | bn_mom=0.0100 | amp=True
+2025-09-27 00:24:28,967 - INFO - Train acc: 0.95493
+2025-09-27 00:25:10,111 - INFO - Epoch 110 | Test Acc: 0.9314 | Class mIoU: 0.8430 | Inst mIoU: 0.8427 | Best Acc: 0.9315
+2025-09-27 00:25:10,112 - INFO - Epoch 111/200 | lr=0.000031 | bn_mom=0.0100 | amp=True
+2025-09-27 00:29:46,107 - INFO - Train acc: 0.95506
+2025-09-27 00:30:26,232 - INFO - Epoch 111 | Test Acc: 0.9309 | Class mIoU: 0.8440 | Inst mIoU: 0.8436 | Best Acc: 0.9315
+2025-09-27 00:30:26,232 - INFO - Epoch 112/200 | lr=0.000031 | bn_mom=0.0100 | amp=True
+2025-09-27 00:35:00,670 - INFO - Train acc: 0.95506
+2025-09-27 00:35:40,929 - INFO - Epoch 112 | Test Acc: 0.9312 | Class mIoU: 0.8427 | Inst mIoU: 0.8423 | Best Acc: 0.9315
+2025-09-27 00:35:40,930 - INFO - Epoch 113/200 | lr=0.000031 | bn_mom=0.0100 | amp=True
+2025-09-27 00:40:15,156 - INFO - Train acc: 0.95520
+2025-09-27 00:40:55,249 - INFO - Epoch 113 | Test Acc: 0.9292 | Class mIoU: 0.8416 | Inst mIoU: 0.8410 | Best Acc: 0.9315
+2025-09-27 00:40:55,249 - INFO - Epoch 114/200 | lr=0.000031 | bn_mom=0.0100 | amp=True
+2025-09-27 00:45:29,626 - INFO - Train acc: 0.95488
+2025-09-27 00:46:09,838 - INFO - Epoch 114 | Test Acc: 0.9307 | Class mIoU: 0.8436 | Inst mIoU: 0.8430 | Best Acc: 0.9315
+2025-09-27 00:46:09,839 - INFO - Epoch 115/200 | lr=0.000031 | bn_mom=0.0100 | amp=True
+2025-09-27 00:50:45,490 - INFO - Train acc: 0.95513
+2025-09-27 00:51:25,606 - INFO - Epoch 115 | Test Acc: 0.9306 | Class mIoU: 0.8441 | Inst mIoU: 0.8436 | Best Acc: 0.9315
+2025-09-27 00:51:25,607 - INFO - Epoch 116/200 | lr=0.000031 | bn_mom=0.0100 | amp=True
+2025-09-27 00:56:01,142 - INFO - Train acc: 0.95532
+2025-09-27 00:56:41,231 - INFO - Epoch 116 | Test Acc: 0.9307 | Class mIoU: 0.8433 | Inst mIoU: 0.8429 | Best Acc: 0.9315
+2025-09-27 00:56:41,231 - INFO - Epoch 117/200 | lr=0.000031 | bn_mom=0.0100 | amp=True
+2025-09-27 01:01:15,465 - INFO - Train acc: 0.95511
+2025-09-27 01:01:55,485 - INFO - Epoch 117 | Test Acc: 0.9310 | Class mIoU: 0.8435 | Inst mIoU: 0.8430 | Best Acc: 0.9315
+2025-09-27 01:01:55,486 - INFO - Epoch 118/200 | lr=0.000031 | bn_mom=0.0100 | amp=True
+2025-09-27 01:06:29,365 - INFO - Train acc: 0.95542
+2025-09-27 01:07:09,430 - INFO - Epoch 118 | Test Acc: 0.9312 | Class mIoU: 0.8433 | Inst mIoU: 0.8429 | Best Acc: 0.9315
+2025-09-27 01:07:09,430 - INFO - Epoch 119/200 | lr=0.000031 | bn_mom=0.0100 | amp=True
+2025-09-27 01:11:48,545 - INFO - Train acc: 0.95531
+2025-09-27 01:12:30,607 - INFO - Epoch 119 | Test Acc: 0.9308 | Class mIoU: 0.8428 | Inst mIoU: 0.8424 | Best Acc: 0.9315
+2025-09-27 01:12:30,608 - INFO - Epoch 120/200 | lr=0.000031 | bn_mom=0.0100 | amp=True
+2025-09-27 01:17:07,276 - INFO - Train acc: 0.95517
+2025-09-27 01:17:48,123 - INFO - Epoch 120 | Test Acc: 0.9314 | Class mIoU: 0.8436 | Inst mIoU: 0.8432 | Best Acc: 0.9315
+2025-09-27 01:17:48,123 - INFO - Epoch 121/200 | lr=0.000016 | bn_mom=0.0100 | amp=True
+2025-09-27 01:22:29,767 - INFO - Train acc: 0.95582
+2025-09-27 01:23:10,938 - INFO - Epoch 121 | Test Acc: 0.9315 | Class mIoU: 0.8450 | Inst mIoU: 0.8445 | Best Acc: 0.9315
+2025-09-27 01:23:10,938 - INFO - Epoch 122/200 | lr=0.000016 | bn_mom=0.0100 | amp=True
+2025-09-27 01:27:45,190 - INFO - Train acc: 0.95570
+2025-09-27 01:28:25,223 - INFO - Epoch 122 | Test Acc: 0.9313 | Class mIoU: 0.8441 | Inst mIoU: 0.8438 | Best Acc: 0.9315
+2025-09-27 01:28:25,224 - INFO - Epoch 123/200 | lr=0.000016 | bn_mom=0.0100 | amp=True
+2025-09-27 01:33:00,680 - INFO - Train acc: 0.95576
+2025-09-27 01:33:40,756 - INFO - Epoch 123 | Test Acc: 0.9307 | Class mIoU: 0.8437 | Inst mIoU: 0.8430 | Best Acc: 0.9315
+2025-09-27 01:33:40,757 - INFO - Epoch 124/200 | lr=0.000016 | bn_mom=0.0100 | amp=True
+2025-09-27 01:38:14,910 - INFO - Train acc: 0.95601
+2025-09-27 01:38:55,007 - INFO - Epoch 124 | Test Acc: 0.9312 | Class mIoU: 0.8437 | Inst mIoU: 0.8434 | Best Acc: 0.9315
+2025-09-27 01:38:55,008 - INFO - Epoch 125/200 | lr=0.000016 | bn_mom=0.0100 | amp=True
+2025-09-27 01:43:29,168 - INFO - Train acc: 0.95607
+2025-09-27 01:44:09,231 - INFO - Epoch 125 | Test Acc: 0.9310 | Class mIoU: 0.8435 | Inst mIoU: 0.8430 | Best Acc: 0.9315
+2025-09-27 01:44:09,231 - INFO - Epoch 126/200 | lr=0.000016 | bn_mom=0.0100 | amp=True
+2025-09-27 01:48:43,144 - INFO - Train acc: 0.95596
+2025-09-27 01:49:23,186 - INFO - Epoch 126 | Test Acc: 0.9310 | Class mIoU: 0.8430 | Inst mIoU: 0.8424 | Best Acc: 0.9315
+2025-09-27 01:49:23,186 - INFO - Epoch 127/200 | lr=0.000016 | bn_mom=0.0100 | amp=True
+2025-09-27 01:54:00,742 - INFO - Train acc: 0.95587
+2025-09-27 01:54:40,778 - INFO - Epoch 127 | Test Acc: 0.9312 | Class mIoU: 0.8441 | Inst mIoU: 0.8437 | Best Acc: 0.9315
+2025-09-27 01:54:40,778 - INFO - Epoch 128/200 | lr=0.000016 | bn_mom=0.0100 | amp=True
+2025-09-27 01:59:14,786 - INFO - Train acc: 0.95559
+2025-09-27 01:59:54,877 - INFO - Epoch 128 | Test Acc: 0.9303 | Class mIoU: 0.8424 | Inst mIoU: 0.8419 | Best Acc: 0.9315
+2025-09-27 01:59:54,878 - INFO - Epoch 129/200 | lr=0.000016 | bn_mom=0.0100 | amp=True
+2025-09-27 02:04:29,020 - INFO - Train acc: 0.95611
+2025-09-27 02:05:09,132 - INFO - Epoch 129 | Test Acc: 0.9308 | Class mIoU: 0.8447 | Inst mIoU: 0.8442 | Best Acc: 0.9315
+2025-09-27 02:05:09,132 - INFO - Epoch 130/200 | lr=0.000016 | bn_mom=0.0100 | amp=True
+2025-09-27 02:09:43,058 - INFO - Train acc: 0.95608
+2025-09-27 02:10:23,187 - INFO - Epoch 130 | Test Acc: 0.9310 | Class mIoU: 0.8435 | Inst mIoU: 0.8431 | Best Acc: 0.9315
+2025-09-27 02:10:23,188 - INFO - Epoch 131/200 | lr=0.000016 | bn_mom=0.0100 | amp=True
+2025-09-27 02:14:58,713 - INFO - Train acc: 0.95607
+2025-09-27 02:15:38,703 - INFO - Epoch 131 | Test Acc: 0.9313 | Class mIoU: 0.8447 | Inst mIoU: 0.8441 | Best Acc: 0.9315
+2025-09-27 02:15:38,703 - INFO - Epoch 132/200 | lr=0.000016 | bn_mom=0.0100 | amp=True
+2025-09-27 02:20:29,478 - INFO - Train acc: 0.95627
+2025-09-27 02:21:10,481 - INFO - Epoch 132 | Test Acc: 0.9303 | Class mIoU: 0.8431 | Inst mIoU: 0.8424 | Best Acc: 0.9315
+2025-09-27 02:21:10,481 - INFO - Epoch 133/200 | lr=0.000016 | bn_mom=0.0100 | amp=True
+2025-09-27 02:25:50,210 - INFO - Train acc: 0.95622
+2025-09-27 02:26:31,556 - INFO - Epoch 133 | Test Acc: 0.9315 | Class mIoU: 0.8448 | Inst mIoU: 0.8443 | Best Acc: 0.9315
+2025-09-27 02:26:35,833 - INFO - Epoch 134/200 | lr=0.000016 | bn_mom=0.0100 | amp=True
+2025-09-27 02:31:10,121 - INFO - Train acc: 0.95619
+2025-09-27 02:31:51,100 - INFO - Epoch 134 | Test Acc: 0.9316 | Class mIoU: 0.8444 | Inst mIoU: 0.8440 | Best Acc: 0.9316
+2025-09-27 02:31:52,741 - INFO - [Best] Updated /scratch/user/zuoxu/datasets/shapenet_noise/log/part_seg_sngp/2025-09-26_14-27/checkpoints/best.ckpt (acc=0.9316)
+2025-09-27 02:31:52,741 - INFO - Epoch 135/200 | lr=0.000016 | bn_mom=0.0100 | amp=True
+2025-09-27 02:36:27,013 - INFO - Train acc: 0.95654
+2025-09-27 02:37:07,061 - INFO - Epoch 135 | Test Acc: 0.9305 | Class mIoU: 0.8442 | Inst mIoU: 0.8436 | Best Acc: 0.9316
+2025-09-27 02:37:07,062 - INFO - Epoch 136/200 | lr=0.000016 | bn_mom=0.0100 | amp=True
+2025-09-27 02:41:41,452 - INFO - Train acc: 0.95611
+2025-09-27 02:42:21,556 - INFO - Epoch 136 | Test Acc: 0.9312 | Class mIoU: 0.8431 | Inst mIoU: 0.8426 | Best Acc: 0.9316
+2025-09-27 02:42:21,556 - INFO - Epoch 137/200 | lr=0.000016 | bn_mom=0.0100 | amp=True
+2025-09-27 02:46:55,889 - INFO - Train acc: 0.95609
+2025-09-27 02:47:36,049 - INFO - Epoch 137 | Test Acc: 0.9315 | Class mIoU: 0.8435 | Inst mIoU: 0.8431 | Best Acc: 0.9316
+2025-09-27 02:47:36,050 - INFO - Epoch 138/200 | lr=0.000016 | bn_mom=0.0100 | amp=True
+2025-09-27 02:52:10,199 - INFO - Train acc: 0.95636
+2025-09-27 02:52:50,300 - INFO - Epoch 138 | Test Acc: 0.9311 | Class mIoU: 0.8436 | Inst mIoU: 0.8431 | Best Acc: 0.9316
+2025-09-27 02:52:50,301 - INFO - Epoch 139/200 | lr=0.000016 | bn_mom=0.0100 | amp=True
+2025-09-27 02:57:24,505 - INFO - Train acc: 0.95626
+2025-09-27 02:58:04,683 - INFO - Epoch 139 | Test Acc: 0.9308 | Class mIoU: 0.8428 | Inst mIoU: 0.8423 | Best Acc: 0.9316
+2025-09-27 02:58:04,683 - INFO - Epoch 140/200 | lr=0.000016 | bn_mom=0.0100 | amp=True
+2025-09-27 03:02:39,131 - INFO - Train acc: 0.95632
+2025-09-27 03:03:19,222 - INFO - Epoch 140 | Test Acc: 0.9311 | Class mIoU: 0.8426 | Inst mIoU: 0.8422 | Best Acc: 0.9316
+2025-09-27 03:03:19,222 - INFO - Epoch 141/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 03:07:53,405 - INFO - Train acc: 0.95635
+2025-09-27 03:08:33,469 - INFO - Epoch 141 | Test Acc: 0.9319 | Class mIoU: 0.8446 | Inst mIoU: 0.8441 | Best Acc: 0.9319
+2025-09-27 03:08:33,629 - INFO - [Best] Updated /scratch/user/zuoxu/datasets/shapenet_noise/log/part_seg_sngp/2025-09-26_14-27/checkpoints/best.ckpt (acc=0.9319)
+2025-09-27 03:08:33,629 - INFO - Epoch 142/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 03:13:07,876 - INFO - Train acc: 0.95635
+2025-09-27 03:13:47,988 - INFO - Epoch 142 | Test Acc: 0.9319 | Class mIoU: 0.8444 | Inst mIoU: 0.8438 | Best Acc: 0.9319
+2025-09-27 03:13:48,614 - INFO - [Best] Updated /scratch/user/zuoxu/datasets/shapenet_noise/log/part_seg_sngp/2025-09-26_14-27/checkpoints/best.ckpt (acc=0.9319)
+2025-09-27 03:13:48,614 - INFO - Epoch 143/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 03:18:20,774 - INFO - Train acc: 0.95660
+2025-09-27 03:19:00,770 - INFO - Epoch 143 | Test Acc: 0.9319 | Class mIoU: 0.8445 | Inst mIoU: 0.8439 | Best Acc: 0.9319
+2025-09-27 03:19:00,771 - INFO - Epoch 144/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 03:23:41,973 - INFO - Train acc: 0.95676
+2025-09-27 03:24:23,487 - INFO - Epoch 144 | Test Acc: 0.9315 | Class mIoU: 0.8442 | Inst mIoU: 0.8437 | Best Acc: 0.9319
+2025-09-27 03:24:23,487 - INFO - Epoch 145/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 03:29:01,805 - INFO - Train acc: 0.95661
+2025-09-27 03:29:45,273 - INFO - Epoch 145 | Test Acc: 0.9308 | Class mIoU: 0.8441 | Inst mIoU: 0.8434 | Best Acc: 0.9319
+2025-09-27 03:29:45,338 - INFO - Epoch 146/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 03:34:19,462 - INFO - Train acc: 0.95653
+2025-09-27 03:34:59,625 - INFO - Epoch 146 | Test Acc: 0.9309 | Class mIoU: 0.8443 | Inst mIoU: 0.8437 | Best Acc: 0.9319
+2025-09-27 03:34:59,625 - INFO - Epoch 147/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 03:39:33,879 - INFO - Train acc: 0.95675
+2025-09-27 03:40:13,991 - INFO - Epoch 147 | Test Acc: 0.9320 | Class mIoU: 0.8442 | Inst mIoU: 0.8438 | Best Acc: 0.9320
+2025-09-27 03:40:14,779 - INFO - [Best] Updated /scratch/user/zuoxu/datasets/shapenet_noise/log/part_seg_sngp/2025-09-26_14-27/checkpoints/best.ckpt (acc=0.9320)
+2025-09-27 03:40:14,780 - INFO - Epoch 148/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 03:44:48,938 - INFO - Train acc: 0.95638
+2025-09-27 03:45:29,023 - INFO - Epoch 148 | Test Acc: 0.9311 | Class mIoU: 0.8443 | Inst mIoU: 0.8439 | Best Acc: 0.9320
+2025-09-27 03:45:29,024 - INFO - Epoch 149/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 03:50:02,909 - INFO - Train acc: 0.95681
+2025-09-27 03:50:42,948 - INFO - Epoch 149 | Test Acc: 0.9318 | Class mIoU: 0.8439 | Inst mIoU: 0.8432 | Best Acc: 0.9320
+2025-09-27 03:50:42,949 - INFO - Epoch 150/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 03:55:17,038 - INFO - Train acc: 0.95690
+2025-09-27 03:55:57,107 - INFO - Epoch 150 | Test Acc: 0.9317 | Class mIoU: 0.8438 | Inst mIoU: 0.8432 | Best Acc: 0.9320
+2025-09-27 03:55:57,107 - INFO - Epoch 151/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 04:00:31,521 - INFO - Train acc: 0.95652
+2025-09-27 04:01:11,613 - INFO - Epoch 151 | Test Acc: 0.9314 | Class mIoU: 0.8440 | Inst mIoU: 0.8435 | Best Acc: 0.9320
+2025-09-27 04:01:11,614 - INFO - Epoch 152/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 04:05:45,685 - INFO - Train acc: 0.95662
+2025-09-27 04:06:25,731 - INFO - Epoch 152 | Test Acc: 0.9315 | Class mIoU: 0.8447 | Inst mIoU: 0.8439 | Best Acc: 0.9320
+2025-09-27 04:06:25,731 - INFO - Epoch 153/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 04:10:59,851 - INFO - Train acc: 0.95679
+2025-09-27 04:11:39,927 - INFO - Epoch 153 | Test Acc: 0.9322 | Class mIoU: 0.8454 | Inst mIoU: 0.8446 | Best Acc: 0.9322
+2025-09-27 04:11:40,043 - INFO - [Best] Updated /scratch/user/zuoxu/datasets/shapenet_noise/log/part_seg_sngp/2025-09-26_14-27/checkpoints/best.ckpt (acc=0.9322)
+2025-09-27 04:11:40,044 - INFO - Epoch 154/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 04:16:14,192 - INFO - Train acc: 0.95683
+2025-09-27 04:16:54,233 - INFO - Epoch 154 | Test Acc: 0.9314 | Class mIoU: 0.8449 | Inst mIoU: 0.8441 | Best Acc: 0.9322
+2025-09-27 04:16:54,234 - INFO - Epoch 155/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 04:21:28,224 - INFO - Train acc: 0.95678
+2025-09-27 04:22:08,361 - INFO - Epoch 155 | Test Acc: 0.9311 | Class mIoU: 0.8446 | Inst mIoU: 0.8440 | Best Acc: 0.9322
+2025-09-27 04:22:08,361 - INFO - Epoch 156/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 04:26:44,350 - INFO - Train acc: 0.95681
+2025-09-27 04:27:27,925 - INFO - Epoch 156 | Test Acc: 0.9320 | Class mIoU: 0.8445 | Inst mIoU: 0.8439 | Best Acc: 0.9322
+2025-09-27 04:27:27,926 - INFO - Epoch 157/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 04:32:03,986 - INFO - Train acc: 0.95664
+2025-09-27 04:32:44,184 - INFO - Epoch 157 | Test Acc: 0.9316 | Class mIoU: 0.8431 | Inst mIoU: 0.8425 | Best Acc: 0.9322
+2025-09-27 04:32:44,185 - INFO - Epoch 158/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 04:37:27,534 - INFO - Train acc: 0.95657
+2025-09-27 04:38:08,909 - INFO - Epoch 158 | Test Acc: 0.9307 | Class mIoU: 0.8445 | Inst mIoU: 0.8439 | Best Acc: 0.9322
+2025-09-27 04:38:08,909 - INFO - Epoch 159/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 04:42:42,618 - INFO - Train acc: 0.95668
+2025-09-27 04:43:22,699 - INFO - Epoch 159 | Test Acc: 0.9308 | Class mIoU: 0.8434 | Inst mIoU: 0.8428 | Best Acc: 0.9322
+2025-09-27 04:43:22,699 - INFO - Epoch 160/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 04:47:57,236 - INFO - Train acc: 0.95671
+2025-09-27 04:48:37,310 - INFO - Epoch 160 | Test Acc: 0.9316 | Class mIoU: 0.8442 | Inst mIoU: 0.8437 | Best Acc: 0.9322
+2025-09-27 04:48:37,310 - INFO - Epoch 161/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 04:53:11,249 - INFO - Train acc: 0.95690
+2025-09-27 04:53:51,262 - INFO - Epoch 161 | Test Acc: 0.9317 | Class mIoU: 0.8451 | Inst mIoU: 0.8445 | Best Acc: 0.9322
+2025-09-27 04:53:51,262 - INFO - Epoch 162/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 04:58:25,474 - INFO - Train acc: 0.95685
+2025-09-27 04:59:05,487 - INFO - Epoch 162 | Test Acc: 0.9320 | Class mIoU: 0.8440 | Inst mIoU: 0.8434 | Best Acc: 0.9322
+2025-09-27 04:59:05,488 - INFO - Epoch 163/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 05:03:39,338 - INFO - Train acc: 0.95700
+2025-09-27 05:04:19,377 - INFO - Epoch 163 | Test Acc: 0.9313 | Class mIoU: 0.8440 | Inst mIoU: 0.8434 | Best Acc: 0.9322
+2025-09-27 05:04:19,377 - INFO - Epoch 164/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 05:08:53,625 - INFO - Train acc: 0.95692
+2025-09-27 05:09:33,748 - INFO - Epoch 164 | Test Acc: 0.9320 | Class mIoU: 0.8448 | Inst mIoU: 0.8441 | Best Acc: 0.9322
+2025-09-27 05:09:33,748 - INFO - Epoch 165/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 05:14:07,710 - INFO - Train acc: 0.95696
+2025-09-27 05:14:47,798 - INFO - Epoch 165 | Test Acc: 0.9313 | Class mIoU: 0.8446 | Inst mIoU: 0.8441 | Best Acc: 0.9322
+2025-09-27 05:14:47,799 - INFO - Epoch 166/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 05:19:21,852 - INFO - Train acc: 0.95679
+2025-09-27 05:20:01,964 - INFO - Epoch 166 | Test Acc: 0.9319 | Class mIoU: 0.8437 | Inst mIoU: 0.8432 | Best Acc: 0.9322
+2025-09-27 05:20:01,965 - INFO - Epoch 167/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 05:24:35,926 - INFO - Train acc: 0.95688
+2025-09-27 05:25:15,967 - INFO - Epoch 167 | Test Acc: 0.9317 | Class mIoU: 0.8457 | Inst mIoU: 0.8451 | Best Acc: 0.9322
+2025-09-27 05:25:15,968 - INFO - Epoch 168/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 05:29:50,075 - INFO - Train acc: 0.95693
+2025-09-27 05:30:30,158 - INFO - Epoch 168 | Test Acc: 0.9312 | Class mIoU: 0.8439 | Inst mIoU: 0.8432 | Best Acc: 0.9322
+2025-09-27 05:30:30,158 - INFO - Epoch 169/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 05:35:15,703 - INFO - Train acc: 0.95681
+2025-09-27 05:35:56,846 - INFO - Epoch 169 | Test Acc: 0.9318 | Class mIoU: 0.8454 | Inst mIoU: 0.8449 | Best Acc: 0.9322
+2025-09-27 05:35:56,847 - INFO - Epoch 170/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 05:40:34,325 - INFO - Train acc: 0.95686
+2025-09-27 05:41:15,566 - INFO - Epoch 170 | Test Acc: 0.9319 | Class mIoU: 0.8445 | Inst mIoU: 0.8442 | Best Acc: 0.9322
+2025-09-27 05:41:15,567 - INFO - Epoch 171/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 05:45:49,094 - INFO - Train acc: 0.95696
+2025-09-27 05:46:29,068 - INFO - Epoch 171 | Test Acc: 0.9311 | Class mIoU: 0.8436 | Inst mIoU: 0.8430 | Best Acc: 0.9322
+2025-09-27 05:46:29,069 - INFO - Epoch 172/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 05:51:02,781 - INFO - Train acc: 0.95707
+2025-09-27 05:51:42,728 - INFO - Epoch 172 | Test Acc: 0.9319 | Class mIoU: 0.8446 | Inst mIoU: 0.8441 | Best Acc: 0.9322
+2025-09-27 05:51:42,729 - INFO - Epoch 173/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 05:56:16,581 - INFO - Train acc: 0.95701
+2025-09-27 05:56:56,580 - INFO - Epoch 173 | Test Acc: 0.9316 | Class mIoU: 0.8448 | Inst mIoU: 0.8440 | Best Acc: 0.9322
+2025-09-27 05:56:56,581 - INFO - Epoch 174/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 06:01:30,373 - INFO - Train acc: 0.95685
+2025-09-27 06:02:10,359 - INFO - Epoch 174 | Test Acc: 0.9320 | Class mIoU: 0.8433 | Inst mIoU: 0.8428 | Best Acc: 0.9322
+2025-09-27 06:02:10,359 - INFO - Epoch 175/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 06:06:44,002 - INFO - Train acc: 0.95702
+2025-09-27 06:07:24,045 - INFO - Epoch 175 | Test Acc: 0.9319 | Class mIoU: 0.8450 | Inst mIoU: 0.8447 | Best Acc: 0.9322
+2025-09-27 06:07:24,046 - INFO - Epoch 176/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 06:11:57,997 - INFO - Train acc: 0.95675
+2025-09-27 06:12:37,926 - INFO - Epoch 176 | Test Acc: 0.9318 | Class mIoU: 0.8450 | Inst mIoU: 0.8446 | Best Acc: 0.9322
+2025-09-27 06:12:37,927 - INFO - Epoch 177/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 06:17:11,796 - INFO - Train acc: 0.95707
+2025-09-27 06:17:51,750 - INFO - Epoch 177 | Test Acc: 0.9313 | Class mIoU: 0.8436 | Inst mIoU: 0.8429 | Best Acc: 0.9322
+2025-09-27 06:17:51,750 - INFO - Epoch 178/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 06:22:25,467 - INFO - Train acc: 0.95709
+2025-09-27 06:23:11,358 - INFO - Epoch 178 | Test Acc: 0.9314 | Class mIoU: 0.8446 | Inst mIoU: 0.8441 | Best Acc: 0.9322
+2025-09-27 06:23:11,359 - INFO - Epoch 179/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 06:27:45,179 - INFO - Train acc: 0.95704
+2025-09-27 06:28:25,152 - INFO - Epoch 179 | Test Acc: 0.9310 | Class mIoU: 0.8447 | Inst mIoU: 0.8442 | Best Acc: 0.9322
+2025-09-27 06:28:25,152 - INFO - Epoch 180/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 06:32:58,501 - INFO - Train acc: 0.95694
+2025-09-27 06:33:38,456 - INFO - Epoch 180 | Test Acc: 0.9316 | Class mIoU: 0.8443 | Inst mIoU: 0.8437 | Best Acc: 0.9322
+2025-09-27 06:33:38,456 - INFO - Epoch 181/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 06:38:21,066 - INFO - Train acc: 0.95721
+2025-09-27 06:39:01,844 - INFO - Epoch 181 | Test Acc: 0.9317 | Class mIoU: 0.8448 | Inst mIoU: 0.8442 | Best Acc: 0.9322
+2025-09-27 06:39:01,845 - INFO - Epoch 182/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 06:43:39,463 - INFO - Train acc: 0.95711
+2025-09-27 06:44:20,708 - INFO - Epoch 182 | Test Acc: 0.9318 | Class mIoU: 0.8431 | Inst mIoU: 0.8426 | Best Acc: 0.9322
+2025-09-27 06:44:20,709 - INFO - Epoch 183/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 06:48:56,834 - INFO - Train acc: 0.95735
+2025-09-27 06:49:37,236 - INFO - Epoch 183 | Test Acc: 0.9314 | Class mIoU: 0.8429 | Inst mIoU: 0.8425 | Best Acc: 0.9322
+2025-09-27 06:49:37,237 - INFO - Epoch 184/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 06:54:10,857 - INFO - Train acc: 0.95724
+2025-09-27 06:54:50,919 - INFO - Epoch 184 | Test Acc: 0.9315 | Class mIoU: 0.8445 | Inst mIoU: 0.8440 | Best Acc: 0.9322
+2025-09-27 06:54:50,919 - INFO - Epoch 185/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 06:59:24,541 - INFO - Train acc: 0.95718
+2025-09-27 07:00:04,544 - INFO - Epoch 185 | Test Acc: 0.9317 | Class mIoU: 0.8442 | Inst mIoU: 0.8436 | Best Acc: 0.9322
+2025-09-27 07:00:04,544 - INFO - Epoch 186/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 07:04:38,305 - INFO - Train acc: 0.95723
+2025-09-27 07:05:18,241 - INFO - Epoch 186 | Test Acc: 0.9313 | Class mIoU: 0.8443 | Inst mIoU: 0.8437 | Best Acc: 0.9322
+2025-09-27 07:05:18,242 - INFO - Epoch 187/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 07:09:51,850 - INFO - Train acc: 0.95728
+2025-09-27 07:10:31,851 - INFO - Epoch 187 | Test Acc: 0.9315 | Class mIoU: 0.8441 | Inst mIoU: 0.8436 | Best Acc: 0.9322
+2025-09-27 07:10:31,851 - INFO - Epoch 188/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 07:15:05,432 - INFO - Train acc: 0.95717
+2025-09-27 07:15:45,383 - INFO - Epoch 188 | Test Acc: 0.9314 | Class mIoU: 0.8447 | Inst mIoU: 0.8442 | Best Acc: 0.9322
+2025-09-27 07:15:45,384 - INFO - Epoch 189/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 07:20:18,771 - INFO - Train acc: 0.95720
+2025-09-27 07:20:58,700 - INFO - Epoch 189 | Test Acc: 0.9307 | Class mIoU: 0.8441 | Inst mIoU: 0.8434 | Best Acc: 0.9322
+2025-09-27 07:20:58,701 - INFO - Epoch 190/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 07:25:32,727 - INFO - Train acc: 0.95704
+2025-09-27 07:26:12,734 - INFO - Epoch 190 | Test Acc: 0.9313 | Class mIoU: 0.8449 | Inst mIoU: 0.8442 | Best Acc: 0.9322
+2025-09-27 07:26:12,734 - INFO - Epoch 191/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 07:30:46,290 - INFO - Train acc: 0.95713
+2025-09-27 07:31:26,307 - INFO - Epoch 191 | Test Acc: 0.9315 | Class mIoU: 0.8436 | Inst mIoU: 0.8430 | Best Acc: 0.9322
+2025-09-27 07:31:26,307 - INFO - Epoch 192/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 07:35:59,818 - INFO - Train acc: 0.95716
+2025-09-27 07:36:39,785 - INFO - Epoch 192 | Test Acc: 0.9313 | Class mIoU: 0.8445 | Inst mIoU: 0.8440 | Best Acc: 0.9322
+2025-09-27 07:36:39,786 - INFO - Epoch 193/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 07:41:13,499 - INFO - Train acc: 0.95707
+2025-09-27 07:41:57,289 - INFO - Epoch 193 | Test Acc: 0.9312 | Class mIoU: 0.8456 | Inst mIoU: 0.8449 | Best Acc: 0.9322
+2025-09-27 07:41:57,289 - INFO - Epoch 194/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 07:46:35,110 - INFO - Train acc: 0.95709
+2025-09-27 07:47:15,313 - INFO - Epoch 194 | Test Acc: 0.9317 | Class mIoU: 0.8444 | Inst mIoU: 0.8438 | Best Acc: 0.9322
+2025-09-27 07:47:15,314 - INFO - Epoch 195/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 07:51:52,694 - INFO - Train acc: 0.95707
+2025-09-27 07:52:33,932 - INFO - Epoch 195 | Test Acc: 0.9308 | Class mIoU: 0.8436 | Inst mIoU: 0.8429 | Best Acc: 0.9322
+2025-09-27 07:52:33,932 - INFO - Epoch 196/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 07:57:08,278 - INFO - Train acc: 0.95730
+2025-09-27 07:57:48,450 - INFO - Epoch 196 | Test Acc: 0.9315 | Class mIoU: 0.8443 | Inst mIoU: 0.8439 | Best Acc: 0.9322
+2025-09-27 07:57:48,450 - INFO - Epoch 197/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 08:02:22,853 - INFO - Train acc: 0.95732
+2025-09-27 08:03:02,994 - INFO - Epoch 197 | Test Acc: 0.9313 | Class mIoU: 0.8437 | Inst mIoU: 0.8432 | Best Acc: 0.9322
+2025-09-27 08:03:02,994 - INFO - Epoch 198/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 08:07:37,344 - INFO - Train acc: 0.95741
+2025-09-27 08:08:17,455 - INFO - Epoch 198 | Test Acc: 0.9307 | Class mIoU: 0.8430 | Inst mIoU: 0.8424 | Best Acc: 0.9322
+2025-09-27 08:08:17,456 - INFO - Epoch 199/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 08:12:51,945 - INFO - Train acc: 0.95730
+2025-09-27 08:13:32,048 - INFO - Epoch 199 | Test Acc: 0.9305 | Class mIoU: 0.8447 | Inst mIoU: 0.8440 | Best Acc: 0.9322
+2025-09-27 08:13:32,048 - INFO - Epoch 200/200 | lr=0.000010 | bn_mom=0.0100 | amp=True
+2025-09-27 08:18:06,354 - INFO - Train acc: 0.95708
+2025-09-27 08:18:46,468 - INFO - Epoch 200 | Test Acc: 0.9311 | Class mIoU: 0.8435 | Inst mIoU: 0.8428 | Best Acc: 0.9322
+2025-09-27 08:18:47,391 - INFO - [Save] Final P_online saved at /scratch/user/zuoxu/datasets/shapenet_noise/log/part_seg_sngp/2025-09-26_14-27/checkpoints/P_online.pt
+2025-09-27 08:18:47,391 - INFO - Refreshing P_clean on clean training data ...
+2025-09-27 08:22:14,463 - INFO - [Save] P_clean saved at /scratch/user/zuoxu/datasets/shapenet_noise/log/part_seg_sngp/2025-09-26_14-27/checkpoints/P_clean.pt

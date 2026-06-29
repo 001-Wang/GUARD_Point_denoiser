@@ -1,0 +1,12 @@
+2026-02-16 13:39:41,562 - INFO - class weights (mean=1): [2.21176088e-05 3.10181058e-05 1.53550704e-04 5.99760911e-04
+ 8.54499958e-05 3.10453848e-04 1.67080376e-04 1.13464055e-04
+ 1.21757847e-04 1.99786358e+01 2.79226224e-03 1.92713772e-03
+ 5.79443644e-04 2.93609162e-04 8.68976407e-04 2.37163296e-03
+ 4.02795104e-03 1.69181440e-03 4.95501934e-03 2.51382648e-04]
+2026-02-16 13:39:41,592 - INFO - Model: sngp_s2_6layers | device=cuda | num_classes=20
+2026-02-16 13:39:42,362 - INFO - Epoch 1/100 | lr=0.001000 | bn_mom=0.1000 | amp=True
+2026-02-16 14:29:40,259 - INFO - Train | loss=2.9958 | acc=0.0390
+2026-02-16 14:34:41,102 - INFO - Val   | loss=2.9963 | acc=0.0286 | mIoU=0.0090 | best_mIoU=0.0090
+2026-02-16 14:34:41,160 - INFO - Saved checkpoint: D:\zuoxu\GUARD\pointnet2\log\scannet_semseg_sngp\2026-02-16_13-39\checkpoints\sngp_s2_6layers_epoch001.pth
+2026-02-16 14:34:41,177 - INFO - [Best] Updated D:\zuoxu\GUARD\pointnet2\log\scannet_semseg_sngp\2026-02-16_13-39\checkpoints\best.ckpt (mIoU=0.0090)
+2026-02-16 14:34:41,178 - INFO - Epoch 2/100 | lr=0.001000 | bn_mom=0.1000 | amp=True

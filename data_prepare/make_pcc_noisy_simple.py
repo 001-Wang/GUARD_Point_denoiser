@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+<<<<<<< HEAD
+=======
 """
 make_pcc_noisy_simple.py
 Create PointCloud-C–style noisy test data (add_global/add_local, severities 1–5)
@@ -23,6 +25,7 @@ Usage (single line):
 
 Author: ChatGPT
 """
+>>>>>>> 8c1fcb01970756c50538b0deed66253798650c9b
 
 import argparse
 import json

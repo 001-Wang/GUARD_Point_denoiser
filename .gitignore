@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+.vscode/
+GUARD_Point_denoiser/

@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+<<<<<<< HEAD
+
+=======
 """
 make_pcc_ghostcluster.py
 Append-only "rigid ghost cluster" noise generator for ShapeNetPart-style point clouds.
@@ -21,6 +24,7 @@ Usage:
     --clusters 1 --ratio 0.25 --rot-deg 10 --trans-range 0.05 --jitter-std 0.0
 
 """
+>>>>>>> 8c1fcb01970756c50538b0deed66253798650c9b
 
 import os
 import sys

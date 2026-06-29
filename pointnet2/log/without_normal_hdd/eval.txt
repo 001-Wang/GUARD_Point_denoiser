@@ -1,0 +1,88 @@
+2025-07-24 14:23:48,096 - Model - INFO - PARAMETER ...
+2025-07-24 14:23:48,096 - Model - INFO - Namespace(batch_size=24, gpu='0', num_point=2048, log_dir='2025-07-21_17-50/', normal=False, num_votes=3)
+2025-07-24 14:23:48,111 - Model - INFO - The number of test data is: 540
+2025-07-24 14:24:14,654 - Model - INFO - Part 0 - Precision: 0.99071, Recall: 0.99044, F1: 0.99058, IoU: 0.98133
+2025-07-24 14:24:14,655 - Model - INFO - Part 1 - Precision: 0.96482, Recall: 0.96794, F1: 0.96637, IoU: 0.93494
+2025-07-24 14:24:14,655 - Model - INFO - Part 2 - Precision: 0.96274, Recall: 0.96364, F1: 0.96319, IoU: 0.92900
+2025-07-24 14:24:14,655 - Model - INFO - Part 3 - Precision: 0.94724, Recall: 0.94070, F1: 0.94396, IoU: 0.89386
+2025-07-24 14:24:14,655 - Model - INFO - Part 4 - Precision: 0.95929, Recall: 0.96693, F1: 0.96309, IoU: 0.92882
+2025-07-24 14:24:14,655 - Model - INFO - Mean Precision: 0.96496
+2025-07-24 14:24:14,655 - Model - INFO - Mean Recall: 0.96593
+2025-07-24 14:24:14,655 - Model - INFO - Mean F1-score: 0.96544
+2025-07-24 14:24:14,655 - Model - INFO - Mean IoU: 0.93359
+2025-07-24 14:47:57,478 - Model - INFO - PARAMETER ...
+2025-07-24 14:47:57,478 - Model - INFO - Namespace(batch_size=24, gpu='0', num_point=2048, log_dir='2025-07-21_17-50/', normal=False, num_votes=3)
+2025-07-24 14:47:57,481 - Model - INFO - The number of test data is: 540
+2025-07-24 14:48:23,976 - Model - INFO - Part 0 - Precision: 0.99031, Recall: 0.99066, F1: 0.99048, IoU: 0.98115
+2025-07-24 14:48:23,976 - Model - INFO - Part 1 - Precision: 0.96701, Recall: 0.96817, F1: 0.96759, IoU: 0.93722
+2025-07-24 14:48:23,976 - Model - INFO - Part 2 - Precision: 0.96335, Recall: 0.95945, F1: 0.96140, IoU: 0.92566
+2025-07-24 14:48:23,976 - Model - INFO - Part 3 - Precision: 0.94497, Recall: 0.93960, F1: 0.94228, IoU: 0.89086
+2025-07-24 14:48:23,976 - Model - INFO - Part 4 - Precision: 0.95952, Recall: 0.96666, F1: 0.96308, IoU: 0.92878
+2025-07-24 14:48:23,976 - Model - INFO - Mean Precision: 0.96503
+2025-07-24 14:48:23,976 - Model - INFO - Mean Recall: 0.96491
+2025-07-24 14:48:23,976 - Model - INFO - Mean F1-score: 0.96497
+2025-07-24 14:48:23,976 - Model - INFO - Mean IoU: 0.93273
+2025-08-06 16:20:52,917 - Model - INFO - PARAMETER ...
+2025-08-06 16:20:52,917 - Model - INFO - Namespace(batch_size=24, gpu='0', num_point=2048, log_dir='2025-07-21_17-50/', normal=False, num_votes=3)
+2025-08-06 16:20:52,917 - Model - INFO - The number of test data is: 540
+2025-08-06 16:21:35,560 - Model - INFO - Part 0 - Precision: 0.99051, Recall: 0.99067, F1: 0.99059, IoU: 0.98136
+2025-08-06 16:21:35,560 - Model - INFO - Part 1 - Precision: 0.96740, Recall: 0.96693, F1: 0.96716, IoU: 0.93642
+2025-08-06 16:21:35,560 - Model - INFO - Part 2 - Precision: 0.96271, Recall: 0.96281, F1: 0.96276, IoU: 0.92820
+2025-08-06 16:21:35,560 - Model - INFO - Part 3 - Precision: 0.94730, Recall: 0.93957, F1: 0.94342, IoU: 0.89290
+2025-08-06 16:21:35,560 - Model - INFO - Part 4 - Precision: 0.96016, Recall: 0.96756, F1: 0.96385, IoU: 0.93022
+2025-08-06 16:21:35,560 - Model - INFO - Mean Precision: 0.96562
+2025-08-06 16:21:35,560 - Model - INFO - Mean Recall: 0.96551
+2025-08-06 16:21:35,560 - Model - INFO - Mean F1-score: 0.96556
+2025-08-06 16:21:35,560 - Model - INFO - Mean IoU: 0.93382
+2025-10-20 12:35:51,386 - Model - INFO - PARAMETER ...
+2025-10-20 12:35:51,386 - Model - INFO - Namespace(batch_size=24, gpu='0', num_point=2048, log_dir='without_normal_hdd', normal=False, num_votes=3, root='data_prepare\\hdd_data')
+2025-10-20 12:35:51,402 - Model - INFO - The number of test data is: 540
+2025-10-20 12:36:26,239 - Model - INFO - PARAMETER ...
+2025-10-20 12:36:26,239 - Model - INFO - Namespace(batch_size=24, gpu='0', num_point=2048, log_dir='without_normal_hdd', normal=False, num_votes=3, root='data_prepare\\hdd_data')
+2025-10-20 12:36:26,243 - Model - INFO - The number of test data is: 540
+2025-10-20 12:37:22,300 - Model - INFO - PARAMETER ...
+2025-10-20 12:37:22,300 - Model - INFO - Namespace(batch_size=24, gpu='0', num_point=2048, log_dir='without_normal_hdd', normal=False, num_votes=3, root='data_prepare\\hdd_data')
+2025-10-20 12:37:22,304 - Model - INFO - The number of test data is: 540
+2025-10-20 16:01:30,817 - Model - INFO - PARAMETER ...
+2025-10-20 16:01:30,817 - Model - INFO - Namespace(batch_size=24, gpu='0', num_point=2048, log_dir='without_normal_hdd', normal=False, num_votes=3, root='data_prepare\\hdd_data')
+2025-10-20 16:01:30,819 - Model - INFO - The number of test data is: 540
+2025-10-20 16:02:47,736 - Model - INFO - PARAMETER ...
+2025-10-20 16:02:47,736 - Model - INFO - Namespace(batch_size=24, gpu='0', num_point=2048, log_dir='without_normal_hdd', normal=False, num_votes=3, root='data_prepare\\hdd_data')
+2025-10-20 16:02:47,741 - Model - INFO - The number of test data is: 540
+2025-10-20 16:03:34,497 - Model - INFO - PARAMETER ...
+2025-10-20 16:03:34,497 - Model - INFO - Namespace(batch_size=24, gpu='0', num_point=2048, log_dir='without_normal_hdd', normal=False, num_votes=3, root='data_prepare\\hdd_data')
+2025-10-20 16:03:34,503 - Model - INFO - The number of test data is: 540
+2025-10-20 16:04:31,464 - Model - INFO - PARAMETER ...
+2025-10-20 16:04:31,464 - Model - INFO - Namespace(batch_size=24, gpu='0', num_point=2048, log_dir='without_normal_hdd', normal=False, num_votes=3, root='data_prepare\\hdd_data')
+2025-10-20 16:04:31,482 - Model - INFO - The number of test data is: 540
+2025-10-20 16:04:49,545 - Model - INFO - ========================================
+2025-10-20 16:04:49,545 - Model - INFO - Overall Acc : 0.8419
+2025-10-20 16:04:49,545 - Model - INFO - Instance mIoU :  0.7739
+2025-10-20 16:04:49,545 - Model - INFO - Class mIoU :  0.7739
+2025-10-20 17:24:10,974 - Model - INFO - PARAMETER ...
+2025-10-20 17:24:10,974 - Model - INFO - Namespace(batch_size=24, gpu='0', num_point=2048, log_dir='without_normal_hdd', normal=False, num_votes=3, root='data_prepare\\hdd_data')
+2025-10-20 17:24:10,974 - Model - INFO - The number of test data is: 540
+2025-10-20 17:25:02,988 - Model - INFO - PARAMETER ...
+2025-10-20 17:25:02,988 - Model - INFO - Namespace(batch_size=24, gpu='0', num_point=2048, log_dir='without_normal_hdd', normal=False, num_votes=3, root='data_prepare\\hdd_data')
+2025-10-20 17:25:03,003 - Model - INFO - The number of test data is: 540
+2025-10-20 17:25:38,955 - Model - INFO - PARAMETER ...
+2025-10-20 17:25:38,955 - Model - INFO - Namespace(batch_size=24, gpu='0', num_point=2048, log_dir='without_normal_hdd', normal=False, num_votes=3, root='data_prepare\\hdd_data')
+2025-10-20 17:25:38,971 - Model - INFO - The number of test data is: 540
+2025-10-20 17:25:57,776 - Model - INFO - ========================================
+2025-10-20 17:25:57,776 - Model - INFO - Overall Acc : 0.8429
+2025-10-20 17:25:57,776 - Model - INFO - Instance mIoU :  0.7782
+2025-10-20 17:25:57,776 - Model - INFO - Class mIoU :  0.7782
+2025-10-20 18:07:23,962 - Model - INFO - PARAMETER ...
+2025-10-20 18:07:23,962 - Model - INFO - Namespace(batch_size=24, gpu='0', num_point=2048, log_dir='without_normal_hdd', normal=False, num_votes=3, root='data_prepare\\hdd_data')
+2025-10-20 18:07:23,978 - Model - INFO - The number of test data is: 540
+2025-10-20 18:07:42,291 - Model - INFO - ========================================
+2025-10-20 18:07:42,291 - Model - INFO - Overall Acc : 0.8428
+2025-10-20 18:07:42,291 - Model - INFO - Instance mIoU :  0.7785
+2025-10-20 18:07:42,291 - Model - INFO - Class mIoU :  0.7785
+2025-10-20 18:57:20,725 - Model - INFO - PARAMETER ...
+2025-10-20 18:57:20,725 - Model - INFO - Namespace(batch_size=24, gpu='0', num_point=2048, log_dir='without_normal_hdd', normal=False, num_votes=3, root='data_prepare\\hdd_data')
+2025-10-20 18:57:20,729 - Model - INFO - The number of test data is: 18
+2025-10-20 18:57:23,238 - Model - INFO - ========================================
+2025-10-20 18:57:23,238 - Model - INFO - Overall Acc : 0.8889
+2025-10-20 18:57:23,238 - Model - INFO - Instance mIoU :  0.8691
+2025-10-20 18:57:23,238 - Model - INFO - Class mIoU :  0.8691
