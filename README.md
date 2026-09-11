@@ -5,6 +5,12 @@
 # GUARD
 Early-stage **Geometric Uncertainty-Aware Robust Denoiser (GUARD)** for point cloud corruption removal and robust segmentation.
 
+## Project page
+
+Visit the public project page: **https://001-wang.github.io/GUARD_Point_denoiser/**
+
+The same page is also mirrored at: https://guard-point-cloud-zuoxu.zuoxu.chatgpt.site/
+
 This repository provides code, datasets, pretrained checkpoints, and evaluation pipelines for our GUARD framework based on early-stage geometric gaussian process.
 
 ---
